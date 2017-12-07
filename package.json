@@ -1,0 +1,24 @@
+{
+	"name": "morts-au-frontieres",
+	"version": "1.0.0",
+	"description": "Repo of the data to OSC player for the project Mort(s) aux frontières",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/collectif-pow/morts-aux-frontieres.git"
+	},
+	"author": "Collectif POW <coucou@pow.cool>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/collectif-pow/morts-aux-frontieres/issues"
+	},
+	"homepage": "https://github.com/collectif-pow/morts-aux-frontieres#readme",
+	"dependencies": {
+		"moment": "^2.19.3",
+		"moment-timezone": "^0.5.14",
+		"osc": "^2.2.0"
+	}
+}
