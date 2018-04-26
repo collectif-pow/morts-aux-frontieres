@@ -27,10 +27,19 @@ udpPort.on('message', msg => {
 		clearTimeout(timeout);
 	}
 });
-
+// Totals:
+// deads: 3799
+// missigns: 4786
+// dead or missigns: 32964
+let dead = 0;
+let missing = 0;
+let deadormissing = 0;
 const sendOSC = data => {
 	if (ready) {
 		data.forEach(d => {
+			dead += d.dead;
+			missing += d.missing;
+			deadormissing += d.deadormissing;
 			udpPort.send({
 				timeTag: osc.timeTag(0),
 				packets: [
@@ -48,6 +57,23 @@ const sendOSC = data => {
 							{
 								type: 'f',
 								value: d.deadormissing,
+							},
+						],
+					},
+					{
+						address: '/event/total',
+						args: [
+							{
+								type: 'f',
+								value: missing,
+							},
+							{
+								type: 'f',
+								value: dead,
+							},
+							{
+								type: 'f',
+								value: deadormissing,
 							},
 						],
 					},
@@ -93,7 +119,7 @@ data.sort((a, b) => {
 const startDate = moment(data[0].date).tz('Europe/Paris');
 const endDate = moment(data[data.length - 1].date).tz('Europe/Paris');
 const duration = endDate.diff(startDate, 'days');
-let timePerDay = 1000;
+let timePerDay = 10;
 // logging initial values
 console.log(startDate.format('dddd D MMMM YYYY'));
 console.log(endDate.format('dddd D MMMM YYYY'));
@@ -111,5 +137,5 @@ const repeat = () => {
 	sendOSC(current);
 	dayOffset++;
 	if (dayOffset > duration) dayOffset = 0;
-	timeout = setTimeout(repeat, timePerDay);
+	else timeout = setTimeout(repeat, timePerDay);
 };
