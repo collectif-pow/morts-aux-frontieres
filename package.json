@@ -19,6 +19,6 @@
 	"dependencies": {
 		"moment": "^2.19.3",
 		"moment-timezone": "^0.5.14",
-		"osc": "^2.2.0"
+		"osc": "https://github.com/colinbdclark/osc.js.git#master"
 	}
 }
