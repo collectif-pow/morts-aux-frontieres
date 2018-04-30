@@ -27,7 +27,7 @@
 		"lon": 9.012893,
 		"source": "No Pasaran",
 		"location": "corsica",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -87,7 +87,7 @@
 		"lon": 14.61606,
 		"source": "AN",
 		"location": "schönbuch",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "Kurd, suicide in Kirchheim/Teck (D) for fear of deportation (Jan 2, 2000)",
@@ -101,7 +101,7 @@
 		"lon": 9.572866,
 		"source": "AN",
 		"location": "kirchheim",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -116,7 +116,7 @@
 		"lon": -3.435973,
 		"source": "IRR/BBC/Mojuk/GuardianUn/zahidmubarekinquiry/Statewatch/Inquest",
 		"location": "great britain",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -191,7 +191,7 @@
 		"lon": -2.991573,
 		"source": "IRR/CARF/NCADC",
 		"location": "liverpool",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "semi-decomposed body, found on coast of Ceuta (E/MA) (Jan 4, 2000)",
@@ -236,7 +236,7 @@
 		"lon": -6.288596,
 		"source": "Mugak",
 		"location": "cadiz",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -266,7 +266,7 @@
 		"lon": 21.506965,
 		"source": "MNS",
 		"location": "vissa",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -401,7 +401,7 @@
 		"lon": 20.792365,
 		"source": "MNS",
 		"location": "kipoi",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -446,7 +446,7 @@
 		"lon": 21.268717,
 		"source": "GHM/OMCT",
 		"location": "kastoria",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -461,7 +461,7 @@
 		"lon": 21.413122,
 		"source": "MNS",
 		"location": "florina",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -476,7 +476,7 @@
 		"lon": 7.783938,
 		"source": "ARI",
 		"location": "Reitzenhain, germany",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "drowned on his way to Spain, found near Ceuta (E/MA) (Jan 11, 2000)",
@@ -534,7 +534,7 @@
 		"lon": 4.895168,
 		"source": "VK",
 		"location": "amsterdam",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -549,7 +549,7 @@
 		"lon": 18.06491,
 		"source": "Nätverket mot rasism",
 		"location": "stockholm",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -594,7 +594,7 @@
 		"lon": 12.537202,
 		"source": "ILM/CDS",
 		"location": "trappani",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -638,7 +638,7 @@
 		"lon": 12.145922,
 		"source": "IMEDANA",
 		"location": "Landshut, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -653,7 +653,7 @@
 		"lon": -0.475554,
 		"source": "NCADC/CARF/IRR",
 		"location": "harmondsworth",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -668,7 +668,7 @@
 		"lon": 8.853396,
 		"source": "ARI",
 		"location": "Singen, germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -683,7 +683,7 @@
 		"lon": 8.682127,
 		"source": "ARI",
 		"location": "frankfurt",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -713,7 +713,7 @@
 		"lon": 16.373819,
 		"source": "AFP/AHDA/I Care/Malmoe",
 		"location": "wien",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description": "reportedly drowned in river Neiße (D/PL) near Porajow (Feb 4, 2000)",
@@ -772,7 +772,7 @@
 		"lon": 8.136299,
 		"source": "SAGA/ARI",
 		"location": "Allbruck, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -859,7 +859,7 @@
 		"lon": 8.466039,
 		"source": "ARI",
 		"location": "Mannheim, germany",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -963,7 +963,7 @@
 		"lon": -5.600819,
 		"source": "EP/ELM/LV/MNS/Diario/VSF/MUGAK",
 		"location": "tarifa",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -978,7 +978,7 @@
 		"lon": 11.157355,
 		"source": "ARI",
 		"location": "Salzwedel, Germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -993,7 +993,7 @@
 		"lon": 12.537202,
 		"source": "ANSA/ILM/CDS",
 		"location": "trappani",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -1054,7 +1054,7 @@
 		"lon": 17.650397,
 		"source": "MGHR/Hungary",
 		"location": "Gyor, Hungary",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "drowned on their way to Spain, found near Cadiz (E) (Mar 23, 2000)",
@@ -1186,7 +1186,7 @@
 		"lon": 8.421698,
 		"source": "ARI",
 		"location": "Rosselsheim, germnay",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -1201,7 +1201,7 @@
 		"lon": 18.06491,
 		"source": "taz/ICARE/Ananova/MNS",
 		"location": "stockholm",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "stowaway, died when lorry hit a bridge near Cheb (CZ) (Apr 9, 2000)",
@@ -1215,7 +1215,7 @@
 		"lon": 12.369864,
 		"source": "VK/taz/NOS teletext/DPA",
 		"location": "Cheb, cz",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "drowned, bodies found on a beach near Castillejos (E) (Apr 11, 2000)",
@@ -1367,7 +1367,7 @@
 		"lon": -2.463714,
 		"source": "El Pais",
 		"location": "almeria",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "Landing along the coasts of Lecce, 1 dead (Apr 19, 2000)",
@@ -1456,7 +1456,7 @@
 		"lon": 5.291266,
 		"source": "MNS",
 		"location": "netherlands",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -1471,7 +1471,7 @@
 		"lon": -4.410332,
 		"source": "MNS",
 		"location": "Netherland",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -1486,7 +1486,7 @@
 		"lon": 18.175016,
 		"source": "Ansa",
 		"location": "lecce",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -1545,7 +1545,7 @@
 		"lon": -5.453909,
 		"source": "Diario de Navarra",
 		"location": "algeciras",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "reportedly drowned, after ship sank near Cadiz (E) (Apr 29, 2000)",
@@ -1622,7 +1622,7 @@
 		"lon": -6.288596,
 		"source": "El Pais",
 		"location": "cadiz",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -1773,7 +1773,7 @@
 		"lon": 26.135943,
 		"source": "Athen News",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -1908,7 +1908,7 @@
 		"lon": 44.074207,
 		"source": "Ananova",
 		"location": "dogubayazit",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -1923,7 +1923,7 @@
 		"lon": 16.909332,
 		"source": "MNS/Malmoe",
 		"location": "Gols, Austria",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -1954,7 +1954,7 @@
 		"lon": -13.589973,
 		"source": "El Pais",
 		"location": "lanzarote",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -1999,7 +1999,7 @@
 		"lon": 8.682127,
 		"source": "taz/Pax Christi/FR/IRR/MNS",
 		"location": "frankfurt",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -2014,7 +2014,7 @@
 		"lon": 18.06491,
 		"source": "Bbc",
 		"location": "stockholm",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -2073,7 +2073,7 @@
 		"lon": -5.384432,
 		"source": "EP/ELM",
 		"location": "San Roque, Spain",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -2118,7 +2118,7 @@
 		"lon": -6.26031,
 		"source": "Irish Times",
 		"location": "dublin",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -2133,7 +2133,7 @@
 		"lon": 12.537202,
 		"source": "ILM/CDS",
 		"location": "trappani",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -2148,7 +2148,7 @@
 		"lon": 22.944606,
 		"source": "MNS",
 		"location": "thessaloniki",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -2325,7 +2325,7 @@
 		"lon": 33.609009,
 		"source": "ISAGC",
 		"location": "Larnaca airport",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -2474,7 +2474,7 @@
 		"lon": 10.451526,
 		"source": "ARI",
 		"location": "Germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -2519,7 +2519,7 @@
 		"lon": -0.160135,
 		"source": "VK/No Pasaran/IRR/NCRM",
 		"location": "Sussex, UK",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -2695,7 +2695,7 @@
 		"lon": 9.744931,
 		"source": "Morgengr./Statewatch/FR-NieSa/ProAsyl/IRR/HRS",
 		"location": "langenhagen",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -2784,7 +2784,7 @@
 		"lon": 20.792365,
 		"source": "MNS",
 		"location": "kipoi",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -2935,7 +2935,7 @@
 		"lon": 13.85062,
 		"source": "der Standard",
 		"location": "Villach, Austria",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -2980,7 +2980,7 @@
 		"lon": 12.537202,
 		"source": "MP/ARCI/L.B.CPT/GdV/quibla/INDi",
 		"location": "trapani",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -3039,7 +3039,7 @@
 		"lon": 4.51349,
 		"source": "MRAX/MNS/Statewatch/IRR",
 		"location": "Steenokerzeel, Belgium",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -3083,7 +3083,7 @@
 		"lon": 22.944606,
 		"source": "MNS",
 		"location": "Thessalonoki, Greece",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -3264,7 +3264,7 @@
 		"lon": 8.469386,
 		"source": "IRR",
 		"location": "Kriftelk, Germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -3309,7 +3309,7 @@
 		"lon": 1.313403,
 		"source": "IRR",
 		"location": "dover",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -3356,7 +3356,7 @@
 		"lon": 8.56939,
 		"source": "RosaAntifa/Format/DerStandard/DieGrünen/DPA/Malmoe",
 		"location": "Körnten, Austria",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -3569,7 +3569,7 @@
 		"lon": 13.224975,
 		"source": "ARI",
 		"location": "Thyrow, Germany",
-		"cause": "suicide - jumped from train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -3689,7 +3689,7 @@
 		"lon": 19.26214,
 		"source": "Reu/UNHCR/MNS/MGHR/IRR/HHC/MUGAK/NCADC",
 		"location": "Budapest International Airport",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -3704,7 +3704,7 @@
 		"lon": 15.2,
 		"source": "Ansa",
 		"location": "croatia",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -3719,7 +3719,7 @@
 		"lon": -4.410332,
 		"source": "IFIR",
 		"location": "Netherland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -3793,7 +3793,7 @@
 		"lon": 22.944606,
 		"source": "MNS",
 		"location": "thessaloniki",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "drowned, found on beach of Bolonia (E) (Dec 20, 2000)",
@@ -3822,7 +3822,7 @@
 		"lon": -2.219377,
 		"source": "CARF/IRR/NCADC",
 		"location": "Nelson, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -3853,7 +3853,7 @@
 		"lon": -0.165058,
 		"source": "MNS/Parool/Telegraph",
 		"location": "gatwick",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -3868,7 +3868,7 @@
 		"lon": -0.165058,
 		"source": "MNS/Parool/Telegraph",
 		"location": "gatwick",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -4003,7 +4003,7 @@
 		"lon": 8.641442,
 		"source": "CARF/IRR",
 		"location": "Schaffhausen, Switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "suicide, jumped in front of train in Den Bosch (NL) (Dec 31, 2000)",
@@ -4017,7 +4017,7 @@
 		"lon": 5.298033,
 		"source": "PRIME",
 		"location": "Den Bosch, Netherland",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -4032,7 +4032,7 @@
 		"lon": 14.550072,
 		"source": "IRR",
 		"location": "austria",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4047,7 +4047,7 @@
 		"lon": 1.858686,
 		"source": "MNS/IRR",
 		"location": "Calais, France",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4062,7 +4062,7 @@
 		"lon": 14.161788,
 		"source": "IRR/MNS",
 		"location": "Jönköping, Sweden",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -4093,7 +4093,7 @@
 		"lon": 14.161788,
 		"source": "MNS",
 		"location": "Jönköping, Sweden",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -4124,7 +4124,7 @@
 		"lon": 2.213749,
 		"source": "ARI",
 		"location": "france",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -4318,7 +4318,7 @@
 		"lon": -1.139759,
 		"source": "CARF/MNS/Statewatch/IRR/NCADC/IRN",
 		"location": "leicester",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -4393,7 +4393,7 @@
 		"lon": 1.858686,
 		"source": "Libération",
 		"location": "calais",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4455,7 +4455,7 @@
 		"lon": 16.373819,
 		"source": "YaN",
 		"location": "wien",
-		"cause": "died after a fight"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4470,7 +4470,7 @@
 		"lon": -0.165058,
 		"source": "NCADC/INexile/Telegraph/IRR",
 		"location": "gatwick",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -4485,7 +4485,7 @@
 		"lon": 4.659132,
 		"source": "MNS",
 		"location": "Waddingxveen, netherland",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -4515,7 +4515,7 @@
 		"lon": -1.130458,
 		"source": "MNS",
 		"location": "murcia",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4635,7 +4635,7 @@
 		"lon": -2.463714,
 		"source": "GARA",
 		"location": "almeria",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4667,7 +4667,7 @@
 		"lon": -3.289259,
 		"source": "MNS",
 		"location": "darro",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4697,7 +4697,7 @@
 		"lon": 5.721809,
 		"source": "NOS",
 		"location": "Drunten, netherland",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4726,7 +4726,7 @@
 		"lon": 26.613007,
 		"source": "ProAsyl",
 		"location": "Turkey to Greece",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4741,7 +4741,7 @@
 		"lon": 26.613007,
 		"source": "ProAsyl",
 		"location": "Turkey to Greece",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4773,7 +4773,7 @@
 		"lon": 1.858686,
 		"source": "Libération",
 		"location": "calais",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -4818,7 +4818,7 @@
 		"lon": 1.858686,
 		"source": "British Broadcasting Corporation",
 		"location": "calais",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4983,7 +4983,7 @@
 		"lon": 17.228331,
 		"source": "Le Monde",
 		"location": "libyan",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -4998,7 +4998,7 @@
 		"lon": 26.135943,
 		"source": "DPA/Athens News Agency",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -5013,7 +5013,7 @@
 		"lon": 4.251163,
 		"source": "PRIME",
 		"location": "De Lier, netherlands",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -5028,7 +5028,7 @@
 		"lon": 26.135943,
 		"source": "Athens News Agency",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "suicide, found hanging after arrest in Soto del Real (E) (May 22, 2001)",
@@ -5042,7 +5042,7 @@
 		"lon": -3.781521,
 		"source": "Mugak",
 		"location": "Soto del Real, spain",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "reportedly drowned, found dead on beach near Melilla (E/MA) (May 23, 2001)",
@@ -5161,7 +5161,7 @@
 		"lon": 21.401367,
 		"source": "MNS/IRR",
 		"location": "Romania to Hungary",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "stowaway, found dead in a cargo ship in Sevilla (E) (Jun 8, 2001)",
@@ -5190,7 +5190,7 @@
 		"lon": 16.871871,
 		"source": "La Repubblica",
 		"location": "bari",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description": "Found on a beach of Tarifa the corpse of a drowned man (Jun 11, 2001)",
@@ -5235,7 +5235,7 @@
 		"lon": 35.243322,
 		"source": "DPA",
 		"location": "Turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -5250,7 +5250,7 @@
 		"lon": 50.5577,
 		"source": "MNS",
 		"location": "bahrein",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -5369,7 +5369,7 @@
 		"lon": 18.185188,
 		"source": "MNS",
 		"location": "Gimo, Sweden",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -5506,7 +5506,7 @@
 		"lon": 15.082851,
 		"source": "Ansa",
 		"location": "catania",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description": "drowned, body found on a beach in Tarifa (E) (Jul 12, 2001)",
@@ -5535,7 +5535,7 @@
 		"lon": 38.996815,
 		"source": "Turkish Daily News",
 		"location": "syria",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -5581,7 +5581,7 @@
 		"lon": 38.996815,
 		"source": "NW",
 		"location": "syria",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -5612,7 +5612,7 @@
 		"lon": 9.292279,
 		"source": "ARI",
 		"location": "Mespelbrunn, Germany",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -5627,7 +5627,7 @@
 		"lon": 35.243322,
 		"source": "MNS",
 		"location": "Turkey",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -5642,7 +5642,7 @@
 		"lon": 16.373819,
 		"source": "MNS/Malmoe",
 		"location": "vienna",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -5897,7 +5897,7 @@
 		"lon": -2.219377,
 		"source": "MNS/IRR/CARF/NCADC",
 		"location": "Nelson, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -6061,7 +6061,7 @@
 		"lon": 13.404954,
 		"source": "ARI",
 		"location": "berlin",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description": "reportedly drowned after shipwreck near Fuerteventura (E) (Sep 11, 2001)",
@@ -6150,7 +6150,7 @@
 		"lon": 9.578026,
 		"source": "MNS/IRR",
 		"location": "Les Grisons, switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -6210,7 +6210,7 @@
 		"lon": 26.330751,
 		"source": "MNS",
 		"location": "gemisti",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "suicide, in fear of forced deportation from Belgium (Sep 30, 2001)",
@@ -6224,7 +6224,7 @@
 		"lon": 4.469936,
 		"source": "MNS",
 		"location": "belgium",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -6434,7 +6434,7 @@
 		"lon": 1.858686,
 		"source": "MNS",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -6582,7 +6582,7 @@
 		"lon": -0.10972,
 		"source": "IRR/INDgb",
 		"location": "Brixton, uk",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description": "drowned, found floating off the coast of Ceuta (E/MA) (Nov 24, 2001)",
@@ -6686,7 +6686,7 @@
 		"lon": 1.858686,
 		"source": "MNS",
 		"location": "calais",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description": "body found near Tarifa (E) (Dec 4, 2001)",
@@ -6832,7 +6832,7 @@
 		"lon": 26.330751,
 		"source": "MNS/AP",
 		"location": "gemisti",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -6847,7 +6847,7 @@
 		"lon": -0.165058,
 		"source": "Bbc",
 		"location": "gatwick",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -6983,7 +6983,7 @@
 		"lon": -1.17432,
 		"source": "IRR",
 		"location": "england",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -6998,7 +6998,7 @@
 		"lon": -1.604519,
 		"source": "CARF/IRR/NCADC/ERB",
 		"location": "Tyneside, UK",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7043,7 +7043,7 @@
 		"lon": 12.451111,
 		"source": "IRR",
 		"location": "schneckenstein",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7058,7 +7058,7 @@
 		"lon": -6.26031,
 		"source": "MN",
 		"location": "dublin",
-		"cause": "died in childbirth"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -7088,7 +7088,7 @@
 		"lon": 21.427996,
 		"source": "IRR/MNS",
 		"location": "Skopje, Macedonia",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -7446,7 +7446,7 @@
 		"lon": -4.410332,
 		"source": "MNS",
 		"location": "Netherland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7580,7 +7580,7 @@
 		"lon": 6.083022,
 		"source": "MNS",
 		"location": "Zwolle, Netherlands",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7610,7 +7610,7 @@
 		"lon": 6.356303,
 		"source": "MAG/VK",
 		"location": "Appelscha, Netherlands",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -7640,7 +7640,7 @@
 		"lon": 21.734574,
 		"source": "IRR",
 		"location": "patras",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -7670,7 +7670,7 @@
 		"lon": 1.824342,
 		"source": "MNS/AP/Telegraaf/MUGAK",
 		"location": "Frethun, France",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description": "executed after being deported to Iran by Turkish police  (Jan 19, 2002)",
@@ -7684,7 +7684,7 @@
 		"lon": 53.688046,
 		"source": "IRAINC",
 		"location": "iran",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -7728,7 +7728,7 @@
 		"lon": 5.40633,
 		"source": "NRC",
 		"location": "Leusden, Netherland",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -7804,7 +7804,7 @@
 		"lon": -1.584852,
 		"source": "NCADC/IRR",
 		"location": "Durham, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7819,7 +7819,7 @@
 		"lon": 21.268717,
 		"source": "GHM/OMCT/YaN/ProAsyl",
 		"location": "kastoria",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -7834,7 +7834,7 @@
 		"lon": -0.45094,
 		"source": "GuardianUn/Annanova/Telegraph/Myjoyonline/IRR/IstitutoInnocenti/NCAs",
 		"location": "heathrow",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "4 drowned in a shipwreck in front of the coast of Tarifa (Feb 13, 2002)",
@@ -7864,7 +7864,7 @@
 		"lon": 8.136299,
 		"source": "SAGA/ARI/IRR",
 		"location": "Allbruck, Germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7879,7 +7879,7 @@
 		"lon": 25.48583,
 		"source": "AI",
 		"location": "bulgaria",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -7923,7 +7923,7 @@
 		"lon": -0.005832,
 		"source": "IRR",
 		"location": "Lewes Prison, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -7968,7 +7968,7 @@
 		"lon": 4.469936,
 		"source": "AIg",
 		"location": "belgium",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -7984,7 +7984,7 @@
 		"lon": 38.996815,
 		"source": "Associated Press",
 		"location": "syria",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "Shipwreck off the coast of Lampedusa: 12 dead, 47 missing (Mar 7, 2002)",
@@ -8044,7 +8044,7 @@
 		"lon": 26.135943,
 		"source": "MNS/Vivre/HRFT/AP",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -8074,7 +8074,7 @@
 		"lon": 26.135943,
 		"source": "AFP/MNS/AP",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -8089,7 +8089,7 @@
 		"lon": 12.451111,
 		"source": "ARI",
 		"location": "schneckenstein",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -8119,7 +8119,7 @@
 		"lon": -1.383801,
 		"source": "Socialist Worker/IRR",
 		"location": "Sunderland, UK",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -8149,7 +8149,7 @@
 		"lon": -0.119824,
 		"source": "allAfrica/IRR",
 		"location": "london",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -8164,7 +8164,7 @@
 		"lon": 1.313403,
 		"source": "SP",
 		"location": "dover",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -8179,7 +8179,7 @@
 		"lon": -0.45094,
 		"source": "Telegraph",
 		"location": "heathrow",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -8241,7 +8241,7 @@
 		"lon": 1.858686,
 		"source": "VK/SP",
 		"location": "calais",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description": "drowned, forced by smugglers to swim ashore near Tarifa (E) (May 8, 2002)",
@@ -8315,7 +8315,7 @@
 		"lon": -0.45094,
 		"source": "Telegraph",
 		"location": "heathrow",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -8330,7 +8330,7 @@
 		"lon": -0.45094,
 		"source": "IRR",
 		"location": "heathrow",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -8360,7 +8360,7 @@
 		"lon": 33.429859,
 		"source": "MNS/Vivre/Parool/HRFT",
 		"location": "cyprus",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -8375,7 +8375,7 @@
 		"lon": 33.429859,
 		"source": "Kathimerini",
 		"location": "Cyprus",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -8390,7 +8390,7 @@
 		"lon": 41.870802,
 		"source": "HRFT",
 		"location": "Köpraköy, Tukey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -8573,7 +8573,7 @@
 		"lon": 42.881542,
 		"source": "HRFT/ProAsyl",
 		"location": "Aslanyazi, turkey",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -8588,7 +8588,7 @@
 		"lon": 5.294347,
 		"source": "NRC",
 		"location": "Vught, Netherlands",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -8618,7 +8618,7 @@
 		"lon": 26.613007,
 		"source": "HRFT",
 		"location": "Turkey to Greece",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -8633,7 +8633,7 @@
 		"lon": 42.881542,
 		"source": "Hrft",
 		"location": "Aslanyazi, turkey",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -8755,7 +8755,7 @@
 		"lon": -14.053676,
 		"source": "El Pais",
 		"location": "fuerteventura",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -8785,7 +8785,7 @@
 		"lon": -2.58791,
 		"source": "NCADC/CARF/IRR/ERB/BBC",
 		"location": "bristol",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -8877,7 +8877,7 @@
 		"lon": -14.053676,
 		"source": "Statewatch/IRR",
 		"location": "fuerteventura",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -8892,7 +8892,7 @@
 		"lon": 2.352222,
 		"source": "AP/MNS",
 		"location": "paris",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -9074,7 +9074,7 @@
 		"lon": 26.490198,
 		"source": "KI",
 		"location": "Vyssa, Turkey",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -9119,7 +9119,7 @@
 		"lon": 9.020215,
 		"source": "INDd/jW/IRR",
 		"location": "Stadtallendorf, Germany",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9150,7 +9150,7 @@
 		"lon": -4.421266,
 		"source": "MNS",
 		"location": "malaga",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "Kurds, died on refugee boat between Italy and Greece (Sep 7, 2002)",
@@ -9195,7 +9195,7 @@
 		"lon": 10.451526,
 		"source": "ARI",
 		"location": "Germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9240,7 +9240,7 @@
 		"lon": 2.352222,
 		"source": "Morgeng./MNS",
 		"location": "paris",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -9255,7 +9255,7 @@
 		"lon": 53.688046,
 		"source": "HRFT",
 		"location": "iran",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -9540,7 +9540,7 @@
 		"lon": 12.568337,
 		"source": "MNS/Grön Ungdom/IRR",
 		"location": "Copenhagen, Denmark",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9585,7 +9585,7 @@
 		"lon": -3.435973,
 		"source": "Socialist Worker/NCADC/IRR",
 		"location": "Great Britain",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9690,7 +9690,7 @@
 		"lon": 8.818135,
 		"source": "ARI",
 		"location": "syke, germany",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description": "suicide in Szombathelyi Detention Centre in Hungary (Nov 20, 2002)",
@@ -9704,7 +9704,7 @@
 		"lon": 19.503304,
 		"source": "MGHR",
 		"location": "hungary",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9795,7 +9795,7 @@
 		"lon": 53.688046,
 		"source": "HRFT",
 		"location": "iran",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -9840,7 +9840,7 @@
 		"lon": 35.243322,
 		"source": "ARI",
 		"location": "Turkey",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9855,7 +9855,7 @@
 		"lon": -1.890401,
 		"source": "NCADC/CARF/IRR",
 		"location": "Birmingham, UK",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -9961,7 +9961,7 @@
 		"lon": 1.858686,
 		"source": "NOB/Telegraaf",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -10050,7 +10050,7 @@
 		"lon": -1.785035,
 		"source": "IRR/YT/NCADC",
 		"location": "Huddersfield, UK",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10125,7 +10125,7 @@
 		"lon": 12.230939,
 		"source": "ERB",
 		"location": "Gribskov, Denmark",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10213,7 +10213,7 @@
 		"lon": 8.647819,
 		"source": "WB/FR-NRW/NW/MNS",
 		"location": "Schloss Holte-Stukenbrock, Germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10302,7 +10302,7 @@
 		"lon": 26,
 		"source": "IRR",
 		"location": "Thrace",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "dead bodies found in the coasts of Lanzarote (E) (Jan 3, 2003)",
@@ -10451,7 +10451,7 @@
 		"lon": 26.135943,
 		"source": "Kathimerini",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -10481,7 +10481,7 @@
 		"lon": 8.385753,
 		"source": "ERB",
 		"location": "Gütersloh, Germany",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10511,7 +10511,7 @@
 		"lon": -7.514648,
 		"source": "SOS",
 		"location": "Africa to Spain",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description": "drowned after shipwreck near Barbate (E) (Jan 7, 2003)",
@@ -10555,7 +10555,7 @@
 		"lon": -4.251806,
 		"source": "NCADC/IRR",
 		"location": "glasgow",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10687,7 +10687,7 @@
 		"lon": -3.728159,
 		"source": "PAIH",
 		"location": "Polmont Prison, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -10777,7 +10777,7 @@
 		"lon": 4.895168,
 		"source": "VK/AC/AFVIC/CW/demo",
 		"location": "amsterdam",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -10941,7 +10941,7 @@
 		"lon": 2.352222,
 		"source": "Cgt",
 		"location": "paris",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -11047,7 +11047,7 @@
 		"lon": 2.213749,
 		"source": "MNS",
 		"location": "france",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -11062,7 +11062,7 @@
 		"lon": -1.124062,
 		"source": "IRR/NCADC/CARF/MNS",
 		"location": "haslar",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11107,7 +11107,7 @@
 		"lon": -4.421266,
 		"source": "MNS/MUGAK/APDHA",
 		"location": "malaga",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -11122,7 +11122,7 @@
 		"lon": -4.421266,
 		"source": "MNS/MUGAK/APDHA",
 		"location": "malaga",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -11259,7 +11259,7 @@
 		"lon": 6.897585,
 		"source": "DVHN",
 		"location": "Emmen, Netherlands",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11274,7 +11274,7 @@
 		"lon": 1.858686,
 		"source": "Vivre",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -11289,7 +11289,7 @@
 		"lon": 1.313403,
 		"source": "AFP/MNS/NO",
 		"location": "dover",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -11304,7 +11304,7 @@
 		"lon": -14.053676,
 		"source": "The Guardian",
 		"location": "fuerteventura",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -11319,7 +11319,7 @@
 		"lon": 2.352222,
 		"source": "MNS",
 		"location": "paris",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "Seven died in a shipwreck in the bay of Kani Keli, Mayotte (Feb 28, 2003)",
@@ -11378,7 +11378,7 @@
 		"lon": -2.248485,
 		"source": "BBC/Socialist Worker/NCADC/IRR/Asylum Policy/gay.com UK/IRR",
 		"location": "Manchester, UK",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11393,7 +11393,7 @@
 		"lon": -7.09262,
 		"source": "MUGAK",
 		"location": "morocco",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -11438,7 +11438,7 @@
 		"lon": 8.530123,
 		"source": "MNS/ERB",
 		"location": "Biedenkopf, Germany",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11453,7 +11453,7 @@
 		"lon": 14.514106,
 		"source": "Malta Independent/MNS/FIDH",
 		"location": "Valetta",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "found dead in his cell in Heathrow police station  (Mar 10, 2003)",
@@ -11482,7 +11482,7 @@
 		"lon": 6.317742,
 		"source": "MNS/VK",
 		"location": "Diever, Netherlands",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11497,7 +11497,7 @@
 		"lon": 26.135943,
 		"source": "Ansa",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -11528,7 +11528,7 @@
 		"lon": 26,
 		"source": "KI",
 		"location": "Thrace",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -11543,7 +11543,7 @@
 		"lon": -0.687312,
 		"source": "icB/IRR/NCADC",
 		"location": "Heatherwood Hospital, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11604,7 +11604,7 @@
 		"lon": -3.435973,
 		"source": "MNS/The Herald/NCADC/ERB/IRR",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11770,7 +11770,7 @@
 		"lon": -2.487529,
 		"source": "IRR",
 		"location": "Blackburn, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -11878,7 +11878,7 @@
 		"lon": 13.187507,
 		"source": "Modern Ghana",
 		"location": "tripoli",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -12001,7 +12001,7 @@
 		"lon": -0.475554,
 		"source": "CARF/Metropolitan Police/IRR/NCADC",
 		"location": "harmondsworth",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -12260,7 +12260,7 @@
 		"lon": 3.042048,
 		"source": "Ansa",
 		"location": "algiers",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description": "drowned, body found on a beach near Edremit (TR) (Aug 12, 2003)",
@@ -12334,7 +12334,7 @@
 		"lon": 12.59292,
 		"source": "LR/IPL/Unipa",
 		"location": "lampedusa",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -12349,7 +12349,7 @@
 		"lon": -1.17432,
 		"source": "BBC News",
 		"location": "england",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -12364,7 +12364,7 @@
 		"lon": 5.425152,
 		"source": "Trouw/VK/PLi",
 		"location": "harlingen",
-		"cause": "died after a fight"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -12408,7 +12408,7 @@
 		"lon": -3.74922,
 		"source": "VK/NRC/Oz/Zelf",
 		"location": "Spain",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -12467,7 +12467,7 @@
 		"lon": 1.313403,
 		"source": "GuardianUn/Inquest/BBC/IRR",
 		"location": "dover",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -12498,7 +12498,7 @@
 		"lon": 16.293962,
 		"source": "MNS/Asyl in Not",
 		"location": "Traiskirchen, Austria",
-		"cause": "died after a fight"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -12528,7 +12528,7 @@
 		"lon": 2.352222,
 		"source": "AFP/MNS/Vivre",
 		"location": "paris",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -12574,7 +12574,7 @@
 		"lon": -3.435973,
 		"source": "BBC",
 		"location": "Great Britain",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -12589,7 +12589,7 @@
 		"lon": 20.168331,
 		"source": "AI",
 		"location": "albania",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -12604,7 +12604,7 @@
 		"lon": 26.135943,
 		"source": "MNS/Flüchtlingsrat-Brandenburg/BBC",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -12664,7 +12664,7 @@
 		"lon": -5.324636,
 		"source": "El Pais",
 		"location": "ceuta",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "It overturns a boat heading to the island of Evia, 5 drowned (Oct 3, 2003)",
@@ -12768,7 +12768,7 @@
 		"lon": -0.466655,
 		"source": "NCADC",
 		"location": "bedford",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "found dead on ship from Libya to Lampedusa (I)  (Oct 16, 2003)",
@@ -12903,7 +12903,7 @@
 		"lon": 0.0899,
 		"source": "IRR/NCADC/ERB",
 		"location": "Belmarsh prison, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -13177,7 +13177,7 @@
 		"lon": 9.16126,
 		"source": "Vivre/MNS/Indymedia/Augen auf/",
 		"location": "Oberberen, Switzerland",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -13330,7 +13330,7 @@
 		"lon": 15.827659,
 		"source": "Statewatch",
 		"location": "congo",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -13345,7 +13345,7 @@
 		"lon": 15.827659,
 		"source": "Statewatch/ProAsyl/FR-NieSa/ARI",
 		"location": "congo",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -13360,7 +13360,7 @@
 		"lon": -0.119824,
 		"source": "IRR",
 		"location": "london",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description": "suicide, found hanged in prison in Lachen (CH)  (Jan 1, 2004)",
@@ -13374,7 +13374,7 @@
 		"lon": 8.856004,
 		"source": "Vivre",
 		"location": "Lachen, Switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -13435,7 +13435,7 @@
 		"lon": -4.202646,
 		"source": "PAIH",
 		"location": "scotland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -13450,7 +13450,7 @@
 		"lon": 45.35,
 		"source": "MNS/Vivre/VK",
 		"location": "mogadishu",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -13479,10 +13479,10 @@
 		"lon": 7.880059,
 		"source": "RIS",
 		"location": "Ivrea, Italy",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
-		"description": "shot by the police in Purmerend (NL) in front of his flat (Jan 6, 2004)",
+		"description": "police in Purmerend (NL) in front of his flat (Jan 6, 2004)",
 		"missing": 0,
 		"dead": 0,
 		"date": "2004-01-06T00:00:00Z",
@@ -13493,7 +13493,7 @@
 		"lon": 4.964061,
 		"source": "IRR",
 		"location": "Purmerend, Netherlands",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -13508,7 +13508,7 @@
 		"lon": 17.638927,
 		"source": "MNS",
 		"location": "Uppsala",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "drowned after dinghy capsized on way from Libya to Italy  (Jan 7, 2004)",
@@ -13592,7 +13592,7 @@
 		"lon": 14.550072,
 		"source": "Akin",
 		"location": "Austria",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -13607,7 +13607,7 @@
 		"lon": -1.519693,
 		"source": "IRR/NCADC",
 		"location": "Coventry, UK",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -13636,7 +13636,7 @@
 		"lon": 9.026918,
 		"source": "Vivre/MNS",
 		"location": "Bellinzone, switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -13651,7 +13651,7 @@
 		"lon": 8.081666,
 		"source": "LESP/Gatti/Migreurop",
 		"location": "niger",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "missing, reportedly drowned near Lampedusa (I) (Jan 9, 2004)",
@@ -13680,7 +13680,7 @@
 		"lon": 19.503304,
 		"source": "MLKO",
 		"location": "hungary",
-		"cause": "died after a fight"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -13907,7 +13907,7 @@
 		"lon": -3.435973,
 		"source": "IRR/GuardianUn",
 		"location": "Great Britain",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -13937,7 +13937,7 @@
 		"lon": 13.342634,
 		"source": "RIS",
 		"location": "Frosinone, Italy",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14027,7 +14027,7 @@
 		"lon": -2.938097,
 		"source": "Msf",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -14088,7 +14088,7 @@
 		"lon": 6.960279,
 		"source": "AN",
 		"location": "Cologne, Germany",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14161,7 +14161,7 @@
 		"lon": 1.297355,
 		"source": "IRR",
 		"location": "Norwich, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14191,7 +14191,7 @@
 		"lon": -2.938097,
 		"source": "Amnesty International",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -14222,7 +14222,7 @@
 		"lon": 11.053734,
 		"source": "RP/Indymedia/",
 		"location": "Halberstadt, Germany",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -14298,7 +14298,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/KI/MNS/NOB",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -14374,7 +14374,7 @@
 		"lon": 19.193115,
 		"source": "MNS",
 		"location": "Hungary to Slovakia",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -14389,7 +14389,7 @@
 		"lon": -7.514648,
 		"source": "MC",
 		"location": "Africa to Spain",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14404,7 +14404,7 @@
 		"lon": 9.993682,
 		"source": "jW/taz/EPP",
 		"location": "hamburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14541,7 +14541,7 @@
 		"lon": 13.007813,
 		"source": "LS/STR/ILM/Unipa",
 		"location": "Africa to Italy",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -14556,7 +14556,7 @@
 		"lon": 26.135943,
 		"source": "YaN",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "died after police  attempt to arrest him in London (GB) (May 14, 2004)",
@@ -14645,7 +14645,7 @@
 		"lon": -4.251806,
 		"source": "IRR/PAIH/SCOT/SM/NCADC",
 		"location": "glasgow",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14660,7 +14660,7 @@
 		"lon": 7.258543,
 		"source": "JdeGe/CO",
 		"location": "Vernier, France",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -14707,7 +14707,7 @@
 		"lon": 18.06491,
 		"source": "MNS/ERB/UNHCR",
 		"location": "stockholm",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -14737,7 +14737,7 @@
 		"lon": 31.16558,
 		"source": "PUB",
 		"location": "ukraine",
-		"cause": "died of a shock"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -14752,7 +14752,7 @@
 		"lon": -2.28064,
 		"source": "IRR",
 		"location": "Prestwich, uk",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -14767,7 +14767,7 @@
 		"lon": 41.493993,
 		"source": "Turkish Daily News",
 		"location": "Kozluk, Batman, turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -14842,7 +14842,7 @@
 		"lon": 5.469722,
 		"source": "EindhovensDagblad/MAG/VK",
 		"location": "Eindhoven, netherlands",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -14872,7 +14872,7 @@
 		"lon": -3.435973,
 		"source": "SC/BBC/IRR/NCADC",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "reportedly drowned after shipwreck near Capo Bon (TN) (Jun 28, 2004)",
@@ -14929,7 +14929,7 @@
 		"lon": -1.698922,
 		"source": "MNS",
 		"location": "Hellin, Spain",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -14944,7 +14944,7 @@
 		"lon": -1.698922,
 		"source": "MNS",
 		"location": "Hellin, Spain",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -14989,7 +14989,7 @@
 		"lon": -0.526243,
 		"source": "NCADC/IRR/Inquest/PPO",
 		"location": "colnbrook",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15004,7 +15004,7 @@
 		"lon": -0.475554,
 		"source": "IRR/MSN/ERB/NCADC",
 		"location": "harmondsworth",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15019,7 +15019,7 @@
 		"lon": 6.773456,
 		"source": "SP",
 		"location": "Düsseldorf",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -15034,7 +15034,7 @@
 		"lon": -4.202646,
 		"source": "IRR/SC/The Herald/NCADC",
 		"location": "scotland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15065,7 +15065,7 @@
 		"lon": 8.853127,
 		"source": "RIS",
 		"location": "Busto Arsizio, italy",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15095,7 +15095,7 @@
 		"lon": 10.310567,
 		"source": "RIS",
 		"location": "livorno",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15185,7 +15185,7 @@
 		"lon": 26.135943,
 		"source": "Ansa",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -15200,7 +15200,7 @@
 		"lon": -3.435973,
 		"source": "PAIH",
 		"location": "Great Britain",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15275,7 +15275,7 @@
 		"lon": 4.863547,
 		"source": "UE/MNS/sgcv",
 		"location": "merksplas",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15412,7 +15412,7 @@
 		"lon": 4.481776,
 		"source": "MNS/VK",
 		"location": "rotterdam",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15653,7 +15653,7 @@
 		"lon": 30.802498,
 		"source": "Whashington Times",
 		"location": "egypt",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -15729,7 +15729,7 @@
 		"lon": 4.35171,
 		"source": "ISMD/UE/INDbe/EmekaIst.",
 		"location": "bruxelles",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15774,7 +15774,7 @@
 		"lon": -3.937112,
 		"source": "MUGAK/APDHA/PICUM",
 		"location": "hoceima",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15880,7 +15880,7 @@
 		"lon": -1.61778,
 		"source": "NCADC/IRR",
 		"location": "newcastle",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -15895,7 +15895,7 @@
 		"lon": 10.451526,
 		"source": "INDd",
 		"location": "Germany",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -15910,7 +15910,7 @@
 		"lon": 2.352222,
 		"source": "slovensko.com",
 		"location": "paris",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -16030,7 +16030,7 @@
 		"lon": 10.451526,
 		"source": "FR-Th",
 		"location": "Germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "killed in Mogadishu (Somalia) after deportation from NL (Oct 5, 2004)",
@@ -16044,7 +16044,7 @@
 		"lon": 45.35,
 		"source": "MNS/Vivre/VK",
 		"location": "mogadishu",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -16059,7 +16059,7 @@
 		"lon": 26.135943,
 		"source": "DerStandard",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "Shipwreck off Bizerbe, 2 missing (Oct 7, 2004)",
@@ -16088,7 +16088,7 @@
 		"lon": 7.983333,
 		"source": "Ansa",
 		"location": "agadez",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -16161,7 +16161,7 @@
 		"lon": -0.119824,
 		"source": "IRR",
 		"location": "london",
-		"cause": "illness"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "reportedly drowned after boat capsized 70 miles from Malta (Oct 13, 2004)",
@@ -16204,7 +16204,7 @@
 		"lon": -1.470085,
 		"source": "NCADC",
 		"location": "Sheffield, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "dead bodies found near Tarfaya (Ma) (Oct 14, 2004)",
@@ -16246,7 +16246,7 @@
 		"lon": -1.139759,
 		"source": "NCADC/IRR",
 		"location": "leicester",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -16277,7 +16277,7 @@
 		"lon": 13.007813,
 		"source": "ANA",
 		"location": "Africa to Italy",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "drowned, found dead near Licata (I) (Oct 27, 2004)",
@@ -16352,7 +16352,7 @@
 		"lon": -5.324636,
 		"source": "IRR",
 		"location": "ceuta",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -16367,7 +16367,7 @@
 		"lon": 10.01608,
 		"source": "ProAsyl",
 		"location": "Fuhlsbüttel, germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "died while in detention in Great britain (Nov 8, 2004)",
@@ -16381,7 +16381,7 @@
 		"lon": -3.435973,
 		"source": "GuardianUn./IRR/Scotman News",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description": "A small boat is turned upside down. 11 dead and 6 missing (Nov 11, 2004)",
@@ -16469,7 +16469,7 @@
 		"lon": 26.135943,
 		"source": "ORF/NOB",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -16576,7 +16576,7 @@
 		"lon": 26.135943,
 		"source": "Kathimerini",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -16995,7 +16995,7 @@
 		"lon": 35.233453,
 		"source": "LESP/Gatti/Migreurop",
 		"location": "madama",
-		"cause": "attacked by animals"
+		"cause": "animals"
 	},
 	{
 		"description":
@@ -17010,7 +17010,7 @@
 		"lon": 67.709953,
 		"source": "Independent",
 		"location": "afghanistan",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -17025,7 +17025,7 @@
 		"lon": 4.772477,
 		"source": "Nova TV(27/10/2005)",
 		"location": "schipol",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17145,7 +17145,7 @@
 		"lon": 11.107278,
 		"source": "ARI",
 		"location": "Ludwigsfeld, germany",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -17175,7 +17175,7 @@
 		"lon": -5.324636,
 		"source": "APDHA/Chabacka",
 		"location": "ceuta",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -17205,7 +17205,7 @@
 		"lon": 20.168331,
 		"source": "Le Matin/Vivre",
 		"location": "Albania",
-		"cause": "died after a fight"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -17220,7 +17220,7 @@
 		"lon": -1.61778,
 		"source": "Cpgb",
 		"location": "newcastle",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17235,7 +17235,7 @@
 		"lon": -4.410332,
 		"source": "VK/aduc/Diario de Noticias/Diario de Navarra",
 		"location": "Netherland",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17250,7 +17250,7 @@
 		"lon": -4.410332,
 		"source": "VK",
 		"location": "Netherland",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -17280,7 +17280,7 @@
 		"lon": 8.244838,
 		"source": "Vivre",
 		"location": "Sarnen, switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17295,7 +17295,7 @@
 		"lon": 4.863547,
 		"source": "De Gentenaar",
 		"location": "merksplas",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17340,7 +17340,7 @@
 		"lon": -1.759398,
 		"source": "YP/IRR",
 		"location": "Bradford, uk",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17369,7 +17369,7 @@
 		"lon": -0.181782,
 		"source": "Inquest/IRR",
 		"location": "Wandsworth, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17445,7 +17445,7 @@
 		"lon": 14.550072,
 		"source": "NR",
 		"location": "austria",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17490,7 +17490,7 @@
 		"lon": 10.451526,
 		"source": "taz/ARI",
 		"location": "Germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17595,7 +17595,7 @@
 		"lon": 4.35171,
 		"source": "BBC",
 		"location": "brussels",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -17625,7 +17625,7 @@
 		"lon": 14.725513,
 		"source": "Rainews24",
 		"location": "ragusa",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -17731,7 +17731,7 @@
 		"lon": 26.135943,
 		"source": "TI/MAG/DPA/taz",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -17761,7 +17761,7 @@
 		"lon": 14.28583,
 		"source": "TheStandard/NR/MNS/ORF/PICUM/WIKO",
 		"location": "Linz, austria",
-		"cause": "suicide - hungerstrike"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -17834,7 +17834,7 @@
 		"lon": 43.768056,
 		"source": "Turkish Press",
 		"location": "Muradiye, Van, Turkey",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "Ship rescued in Tarifa, 1 child dead (Apr 19, 2005)",
@@ -17863,7 +17863,7 @@
 		"lon": 38.996815,
 		"source": "Tagesanzeiger/Swiss Parliament",
 		"location": "syria",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "Boat rescued off the island Farmakonisi, 2 missing (Apr 26, 2005)",
@@ -17985,7 +17985,7 @@
 		"lon": 7.983333,
 		"source": "NOB/Thestar",
 		"location": "agadez",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -18000,7 +18000,7 @@
 		"lon": 26.135943,
 		"source": "MAG",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -18182,7 +18182,7 @@
 		"lon": 7.983333,
 		"source": "Le Monde Diplomatique",
 		"location": "agadez",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -18258,7 +18258,7 @@
 		"lon": -0.119725,
 		"source": "TI/IRR/NCADC/BBC/PICUM/Independent",
 		"location": "Campsfield, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -18288,7 +18288,7 @@
 		"lon": 8.801694,
 		"source": "VRF/Statewatch/Karawane",
 		"location": "Bremen, germany",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18333,7 +18333,7 @@
 		"lon": -2.58791,
 		"source": "NCADC/IRR",
 		"location": "bristol",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description": "Shipwreck off Malta, 7 missing (Jul 11, 2005)",
@@ -18393,7 +18393,7 @@
 		"lon": -2.933333,
 		"source": "Afvic",
 		"location": "Mrirt, Nador, morocco",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18483,7 +18483,7 @@
 		"lon": 5.367066,
 		"source": "Universal Embassy (B)",
 		"location": "Hechtel-Eksel, belgium",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -18586,7 +18586,7 @@
 		"lon": -2.938097,
 		"source": "El Mundo",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18601,7 +18601,7 @@
 		"lon": -2.201948,
 		"source": "Middleton Guardian/IRR",
 		"location": "Middleton, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -18616,7 +18616,7 @@
 		"lon": 21.824312,
 		"source": "Kathimerini",
 		"location": "Greece",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -18662,7 +18662,7 @@
 		"lon": 26.476442,
 		"source": "MNS/KI/FE",
 		"location": "kastanies",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description": "1 found dead on the beach in Agrigento, Sicily (Sep 13, 2005)",
@@ -18691,7 +18691,7 @@
 		"lon": 21.745275,
 		"source": "Kathimerini",
 		"location": "Macedonia",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18751,7 +18751,7 @@
 		"lon": -2.938097,
 		"source": "Ardh",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18781,7 +18781,7 @@
 		"lon": -0.482377,
 		"source": "NCADC/BBC/MNS/Statewatch/TI/Leedstoday/IRR",
 		"location": "Yarl's Wood, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -18796,7 +18796,7 @@
 		"lon": 26.136346,
 		"source": "MNS/Spiegel/NOB",
 		"location": "chios",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -18842,7 +18842,7 @@
 		"lon": 41.27,
 		"source": "Turkish Press",
 		"location": "Erzurum",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "Vessel in distress rescued off Lampedusa, 6 missing (Sep 24, 2005)",
@@ -18917,7 +18917,7 @@
 		"lon": -5.324636,
 		"source": "NR/NRC/VK/NOB/AI/Terra",
 		"location": "ceuta",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -19023,7 +19023,7 @@
 		"lon": -3.435973,
 		"source": "Peter bourough today",
 		"location": "Great Britain",
-		"cause": "run over"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -19067,7 +19067,7 @@
 		"lon": 22.071533,
 		"source": "MNS",
 		"location": "Macedonia to Greece",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -19082,7 +19082,7 @@
 		"lon": -1.890401,
 		"source": "IRR",
 		"location": "Birmingham, uk",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -19156,7 +19156,7 @@
 		"lon": 9.993682,
 		"source": "ARI",
 		"location": "hamburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -19277,7 +19277,7 @@
 		"lon": 16.275751,
 		"source": "MP",
 		"location": "lamezia",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description": "found dead on a boat from Morocco to Spain (Nov 2, 2005)",
@@ -19365,7 +19365,7 @@
 		"lon": 23.72931,
 		"source": "KI/FE",
 		"location": "athens",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -19517,7 +19517,7 @@
 		"lon": 43.470713,
 		"source": "FE",
 		"location": "carikci",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -19622,7 +19622,7 @@
 		"lon": 26.476442,
 		"source": "Kathimerini",
 		"location": "kastanies",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -19637,7 +19637,7 @@
 		"lon": -76.792009,
 		"source": "IRR/WIK",
 		"location": "Kingston, Jamaica",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -19668,7 +19668,7 @@
 		"lon": 8.081666,
 		"source": "MNS/News24/FE/VK",
 		"location": "niger",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description": "drowned, found by authorities on the beach of Cadiz (E)  (Dec 23, 2005)",
@@ -19757,7 +19757,7 @@
 		"lon": 31.235712,
 		"source": "New York Times",
 		"location": "cairo",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -19772,7 +19772,7 @@
 		"lon": 48.516388,
 		"source": "IHRC",
 		"location": "yemen",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -19787,7 +19787,7 @@
 		"lon": 16.311798,
 		"source": "ILM/MP/Lib",
 		"location": "Pian Del Lago, italy",
-		"cause": "wrong medical treatment, overdose"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -19802,7 +19802,7 @@
 		"lon": 53.688046,
 		"source": "witness (Sarfraz Ali Khan)",
 		"location": "iran",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -19876,7 +19876,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -19951,7 +19951,7 @@
 		"lon": -2.938097,
 		"source": "El Mundo",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -20026,7 +20026,7 @@
 		"lon": 3.570912,
 		"source": "Oz",
 		"location": "Vlissingen, nl",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -20041,7 +20041,7 @@
 		"lon": 13.8,
 		"source": "BF/VK/IN",
 		"location": "Dannenreich, germany",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -20101,7 +20101,7 @@
 		"lon": 43.679291,
 		"source": "IRR",
 		"location": "iraq",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -20160,7 +20160,7 @@
 		"lon": 0.087806,
 		"source": "IRR",
 		"location": "Harlow, uk",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -20190,7 +20190,7 @@
 		"lon": 5.36978,
 		"source": "INDm/Vatan/PR/MNS/LaDep",
 		"location": "Marseille, france",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -20220,7 +20220,7 @@
 		"lon": -0.475554,
 		"source": "Statewatch/NCADC/IRR/NOB",
 		"location": "harmondsworth",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -20295,7 +20295,7 @@
 		"lon": 6.2588,
 		"source": "Odysseus/PlaZa",
 		"location": "Schrassing, luxemburg",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -20339,7 +20339,7 @@
 		"lon": 13.007813,
 		"source": "Berliner Ztg/MOZ/Tagesspiegel",
 		"location": "Czech Republic to Germany",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -20384,7 +20384,7 @@
 		"lon": -16.62913,
 		"source": "APDHA",
 		"location": "tenerife",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -20399,7 +20399,7 @@
 		"lon": 21.734574,
 		"source": "Statewatch/MNS",
 		"location": "patras",
-		"cause": "died of a shock"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -20518,7 +20518,7 @@
 		"lon": -0.343955,
 		"source": "Manchester",
 		"location": "Fairfield Hospital, uk",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -20670,7 +20670,7 @@
 		"lon": -2.938097,
 		"source": "Statewatch/FE/ELM/ICARE/VITA/PICUM/IPL/MP/NOB/AI/AFVIC/APDHA/jW/NYtimes",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -20747,7 +20747,7 @@
 		"lon": -3.435973,
 		"source": "RochdaleObs/IRR",
 		"location": "Great Britain",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -20947,7 +20947,7 @@
 	},
 	{
 		"description":
-			"murdered, shot by the police during a street riot in Germany (Apr 13, 2006)",
+			"murdered, police during a street riot in Germany (Apr 13, 2006)",
 		"missing": 0,
 		"dead": 0,
 		"date": "2006-04-13T00:00:00Z",
@@ -20958,7 +20958,7 @@
 		"lon": 10.451526,
 		"source": "Sparta",
 		"location": "Germany",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -20973,7 +20973,7 @@
 		"lon": 0.096538,
 		"source": "IRR",
 		"location": "Cambridegeshire, uk",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -21019,7 +21019,7 @@
 		"lon": -5.324636,
 		"source": "Statewatch/FE/ELM/NODO50",
 		"location": "ceuta",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -21093,7 +21093,7 @@
 		"lon": -1.450343,
 		"source": "IRR/icliverpool",
 		"location": "Greenbank Drive Centre, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -21169,7 +21169,7 @@
 		"lon": -3.435973,
 		"source": "Thenews/IRR",
 		"location": "Great Britain",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -21184,7 +21184,7 @@
 		"lon": -3.435973,
 		"source": "IRR/BBC",
 		"location": "Great Britain",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -21214,7 +21214,7 @@
 		"lon": 36.25,
 		"source": "FECL/IPL/Ya.N/PICUM/MNS/FE/TDN/NOB/AFP",
 		"location": "osmaniye",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -21243,7 +21243,7 @@
 		"lon": 26.613007,
 		"source": "IMK",
 		"location": "Turkey to Greece",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -21349,7 +21349,7 @@
 		"lon": 11.342616,
 		"source": "MP/ADUC/SAP/AFFIT/GLOPRO/LESP/ILD",
 		"location": "bologna",
-		"cause": "wrong medical treatment, overdose"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "died in detention centre in Bologna (I) sparking a revolt (Jun 7, 2006)",
@@ -21393,7 +21393,7 @@
 		"lon": -15.658889,
 		"source": "FE/ELM/MNS/APDHA/NOB/TySp/Gaymengc/TS",
 		"location": "arguineguin",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -21408,7 +21408,7 @@
 		"lon": -15.658889,
 		"source": "NOB/Gaymengc/FE/ELM/TS/MNS/APDHA",
 		"location": "arguineguin",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -21423,7 +21423,7 @@
 		"lon": 8.624268,
 		"source": "CPH/MNS/NR/UNHCR",
 		"location": "Hansthholm, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -21542,7 +21542,7 @@
 		"lon": 13.187507,
 		"source": "Fortress Europe",
 		"location": "tripoli",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -21603,7 +21603,7 @@
 		"lon": -16.62913,
 		"source": "PICUM/MNS/Statewatch/FE/EP/NOB/APDHA/jW",
 		"location": "tenerife",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description": "bodies found on the coasts of Canary Islands (E) (Jul 6, 2006)",
@@ -21632,7 +21632,7 @@
 		"lon": 10.395053,
 		"source": "MNS/NR",
 		"location": "Trondheim, norway",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -21648,7 +21648,7 @@
 		"lon": 25.762997,
 		"source": "MNS",
 		"location": "Pabrade, lithuania",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -21723,7 +21723,7 @@
 		"lon": -16.62913,
 		"source": "APDHA",
 		"location": "canaria",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -21783,7 +21783,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/KI/MNS/NOB",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -21813,7 +21813,7 @@
 		"lon": 6.369422,
 		"source": "VK",
 		"location": "Geeuwenburg, netherlands",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -21920,7 +21920,7 @@
 		"lon": -16.716667,
 		"source": "NOB/TS",
 		"location": "Los Cristianos, spain",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -21995,7 +21995,7 @@
 		"lon": 6.687951,
 		"source": "ProAsyl/PICUM/Hiergeb",
 		"location": "Neuss, germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -22010,7 +22010,7 @@
 		"lon": 1.169456,
 		"source": "Mirror/BBC/IRR",
 		"location": "Folkestone, uk",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -22100,7 +22100,7 @@
 		"lon": -4.360736,
 		"source": "TheHerald/IRR",
 		"location": "Knightswood, uk",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -22240,7 +22240,7 @@
 		"lon": 0.667367,
 		"source": "India eNews",
 		"location": "essex",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -22318,7 +22318,7 @@
 		"lon": -15.97842,
 		"source": "MNS/FE/EP/BBC/ELM/MAG/PICUM/CRIDEM/APDHA",
 		"location": "nouakchott",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -22333,7 +22333,7 @@
 		"lon": -16.62913,
 		"source": "APDHA",
 		"location": "canary",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -22348,7 +22348,7 @@
 		"lon": 11.291889,
 		"source": "MNS/Reu/FE/BBC/NOB",
 		"location": "sahara",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -22531,7 +22531,7 @@
 		"lon": -0.119824,
 		"source": "IRR/Streathamguardian",
 		"location": "london",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -22637,7 +22637,7 @@
 		"lon": 26.135943,
 		"source": "Kathimerini",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -22667,7 +22667,7 @@
 		"lon": -16.62913,
 		"source": "ELM/FE/NOB/EITB24/PICUM/Kaosenlared/NODO50/APDHA",
 		"location": "canaries",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -22805,7 +22805,7 @@
 		"lon": -2.161814,
 		"source": "IRR/RochdaleObs",
 		"location": "Rochdale, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "A sinking boat off the Canary Islands, 20 missing",
@@ -22834,7 +22834,7 @@
 		"lon": -2.21973,
 		"source": "NCADC/UNHCR/IRR",
 		"location": "Rye Hill, uk",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -22849,7 +22849,7 @@
 		"lon": 26.135943,
 		"source": "KI/FE/MNS/FR-BB",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -22982,7 +22982,7 @@
 		"lon": -4.410332,
 		"source": "Voorvlucht/Oz",
 		"location": "Netherland",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -23027,7 +23027,7 @@
 		"lon": -1.004294,
 		"source": "IRR",
 		"location": "Clanfield, uk",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -23224,7 +23224,7 @@
 		"lon": 0.667367,
 		"source": "BBC/essexchronicle/GuardianUn/PICUM/NOB/IRR/EADT",
 		"location": "essex",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description": "Landing in the Canary Islands, two deaths from hypothermia (Dec 7, 2006)",
@@ -23268,7 +23268,7 @@
 		"lon": -2.938097,
 		"source": "El Telegrama",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -23298,7 +23298,7 @@
 		"lon": 1.386834,
 		"source": "IRR",
 		"location": "Margate, uk",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -23481,7 +23481,7 @@
 		"lon": -1.911389,
 		"source": "Mountada Rihab",
 		"location": "oujda",
-		"cause": "died of kidney failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -23496,7 +23496,7 @@
 		"lon": -6.83272,
 		"source": "APDHA/ICARE",
 		"location": "rabat",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -23512,7 +23512,7 @@
 		"lon": -2.938097,
 		"source": "Migreurop",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -23602,7 +23602,7 @@
 		"lon": -0.466655,
 		"source": "IRR",
 		"location": "bedford",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -23766,7 +23766,7 @@
 		"lon": -16.62913,
 		"source": "Afrik",
 		"location": "canary",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -23856,7 +23856,7 @@
 		"lon": -3.435973,
 		"source": "TheNews",
 		"location": "Great Britain",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -23930,7 +23930,7 @@
 		"lon": 7.126517,
 		"source": "Karawane",
 		"location": "Remscheider, germany",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -23945,7 +23945,7 @@
 		"lon": 4.35171,
 		"source": "AngolaPress/MNS/PICUM/Vivre",
 		"location": "brussels",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -24021,7 +24021,7 @@
 		"lon": -2.70309,
 		"source": "IRR",
 		"location": "preston, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24036,7 +24036,7 @@
 		"lon": 7.08635,
 		"source": "Vivre/Polbe",
 		"location": "Witzwil, switzerland",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24066,7 +24066,7 @@
 		"lon": 90.356331,
 		"source": "IRR",
 		"location": "bangladesh",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24157,7 +24157,7 @@
 		"lon": -1.911389,
 		"source": "Mountada Rihab",
 		"location": "oujda",
-		"cause": "died of kidney failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -24187,7 +24187,7 @@
 		"lon": -4.421266,
 		"source": "EP",
 		"location": "malaga",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -24249,7 +24249,7 @@
 		"lon": 26.101538,
 		"source": "WSWS/DPA/IRR",
 		"location": "Bucarest airport",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24264,7 +24264,7 @@
 		"lon": -4.251806,
 		"source": "BBC/icS/EveningTimes/INDgb/Independent/TheHerald/SC/HimalayanTimes/IRR",
 		"location": "glasgow",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24294,7 +24294,7 @@
 		"lon": 53.688046,
 		"source": "TDN/FE/TodZam",
 		"location": "iran",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -24445,7 +24445,7 @@
 		"lon": 2.352222,
 		"source": "IRR/REF/Libération",
 		"location": "paris",
-		"cause": "died of suddent infant death"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -24719,7 +24719,7 @@
 		"lon": -2.189053,
 		"source": "Se/IRR",
 		"location": "James Brindley Close, uk",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -24809,7 +24809,7 @@
 		"lon": 10.16596,
 		"source": "NOB",
 		"location": "tunis",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -24885,7 +24885,7 @@
 		"lon": 44.39098,
 		"source": "IRR",
 		"location": "Kirkuk, iraq",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -25160,7 +25160,7 @@
 		"lon": 8.682127,
 		"source": "FL/jW/IRR",
 		"location": "frankfurt",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -25268,7 +25268,7 @@
 		"lon": -4.410332,
 		"source": "SVZV",
 		"location": "Netherland",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -25374,7 +25374,7 @@
 		"lon": 17.873887,
 		"source": "IRR",
 		"location": "angola",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -25405,7 +25405,7 @@
 		"lon": 1.858686,
 		"source": "Salam",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -25481,7 +25481,7 @@
 		"lon": 6.605243,
 		"source": "NRC/Nopoliceraid/AD",
 		"location": "Haren, netherland",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -25512,7 +25512,7 @@
 		"lon": 12.59292,
 		"source": "Fortress Europe",
 		"location": "lampedusa",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -25699,7 +25699,7 @@
 		"lon": 34.240191,
 		"source": "AFP",
 		"location": "rafah",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "drowned, 2 found, 1 missing near the coasts of Malta (Jul 22, 2007)",
@@ -25864,7 +25864,7 @@
 		"lon": -9.616667,
 		"source": "Afrik",
 		"location": "ayun",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -26060,7 +26060,7 @@
 		"lon": 21.824312,
 		"source": "Reu./PICUM",
 		"location": "Greece",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -26075,7 +26075,7 @@
 		"lon": 20.168331,
 		"source": "Il Piccolo",
 		"location": "albania",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -26211,7 +26211,7 @@
 		"lon": 33.189515,
 		"source": "Anatolian",
 		"location": "yukari",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -26241,7 +26241,7 @@
 		"lon": -16.62913,
 		"source": "ELM/Verdad/EP/LV/ElDia",
 		"location": "canaria",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -26302,7 +26302,7 @@
 		"lon": -16.62913,
 		"source": "MUGAK/Diario de Navarra/LV/PerCat/ABC/SUR/Provincias/ElDia/Vasco/ELM",
 		"location": "canaria",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -26362,7 +26362,7 @@
 		"lon": 28.9775,
 		"source": "Radikal",
 		"location": "Beyoƒülu police station, istanbul",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "Fished a corpse in Mers El Hadjadj, Arzew (Aug 23, 2007)",
@@ -26498,7 +26498,7 @@
 		"lon": 12.100429,
 		"source": "IRR",
 		"location": "rostock, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -26650,7 +26650,7 @@
 		"lon": 17.812754,
 		"source": "IRR/ARI",
 		"location": "mostar, bosnia and herzegovina",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -26862,7 +26862,7 @@
 		"lon": -0.04495,
 		"source": "MNS",
 		"location": "Castellon, spain",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -26892,7 +26892,7 @@
 		"lon": 23.72931,
 		"source": "Kathimerini",
 		"location": "athens",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -26996,7 +26996,7 @@
 		"lon": -5.32,
 		"source": "Guardian Un./ST/Telegraph/Picum/ELM/MUGAK/EP/Publico/MNS/Can7/ABC/LV/OSF",
 		"location": "ceuta",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description": "Spotted a corpse 105 miles southwest of Malta (Oct 1, 2007)",
@@ -27055,7 +27055,7 @@
 		"lon": -1.79723,
 		"source": "HEXAM/IRR",
 		"location": "Birkby, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "Recovered a dead body five miles south of Lampedusa (Oct 11, 2007)",
@@ -27098,7 +27098,7 @@
 		"lon": 32.899829,
 		"source": "Ahn",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -27129,7 +27129,7 @@
 		"lon": 10.920087,
 		"source": "MP/INDi/ASGI/GLOPRO",
 		"location": "modena",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27189,7 +27189,7 @@
 		"lon": 10.920087,
 		"source": "INDi/ASGI/GLOPRO",
 		"location": "modena",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27204,7 +27204,7 @@
 		"lon": -10.940835,
 		"source": "MNS/PICUM/Le Courrier",
 		"location": "mauritania",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27298,7 +27298,7 @@
 		"lon": 7.920044,
 		"source": "IRR",
 		"location": "lotte, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27344,7 +27344,7 @@
 		"lon": -0.57918,
 		"source": "MNS/METROF/IRR",
 		"location": "bordeaux, france",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27359,7 +27359,7 @@
 		"lon": 20.168331,
 		"source": "Abc",
 		"location": "albania",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -27403,7 +27403,7 @@
 		"lon": 11.863345,
 		"source": "IRR/ARI",
 		"location": "amberg, germany",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27463,7 +27463,7 @@
 		"lon": 33.429859,
 		"source": "TDN/IRR/MNS/NOB",
 		"location": "cyprus",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -27478,7 +27478,7 @@
 		"lon": 33.429859,
 		"source": "Turkish Daily News",
 		"location": "Cyprus",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -27493,7 +27493,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -27782,7 +27782,7 @@
 		"lon": 0.46855,
 		"source": "Inquest/IRR",
 		"location": "chelmsford, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "2 dead, 3 missing after a shipwreck off the coast of Sfax (Dec 26, 2007)",
@@ -27859,7 +27859,7 @@
 		"lon": 13.404954,
 		"source": "IRR/ARI",
 		"location": "berlin",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description": "drowned, after boat capsized near the beach of Cadiz (E) (Dec 31, 2007)",
@@ -27903,7 +27903,7 @@
 		"lon": 13.404954,
 		"source": "MNS/IN/jW/IRR",
 		"location": "berlin",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28038,7 +28038,7 @@
 		"lon": 4.481776,
 		"source": "Statewatch/IN/IKN",
 		"location": "rotterdam",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -28069,7 +28069,7 @@
 		"lon": -1.911389,
 		"source": "FE",
 		"location": "oujda",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -28084,7 +28084,7 @@
 		"lon": 6.129583,
 		"source": "ASTI",
 		"location": "luxemburg",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28115,7 +28115,7 @@
 		"lon": 33.366667,
 		"source": "IRR/AFP/NOB",
 		"location": "nicosia",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -28130,7 +28130,7 @@
 		"lon": 4.863547,
 		"source": "Hln/IRR/Afrik/MNS/Indymedia/NOB",
 		"location": "merksplas",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28145,7 +28145,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28251,7 +28251,7 @@
 		"lon": 30.217636,
 		"source": "MNS/Independent/WP/Spits/Telegraph",
 		"location": "sudan",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -28356,7 +28356,7 @@
 		"lon": -0.526243,
 		"source": "IRR",
 		"location": "colnbrook",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -28371,7 +28371,7 @@
 		"lon": -2.20218,
 		"source": "Ndtv/IRR",
 		"location": "trent vale, uk",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "Found a seventh corpse in Barbate (Jan 10, 2008)",
@@ -28431,7 +28431,7 @@
 		"lon": 14.423775,
 		"source": "IRR/ARI",
 		"location": "bautzen, germany",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28557,7 +28557,7 @@
 		"lon": 13.518915,
 		"source": "Romagna Oggi",
 		"location": "ancona",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -28572,7 +28572,7 @@
 		"lon": 12.161842,
 		"source": "romagnaoggi/NOB/FE",
 		"location": "Panighina, italy",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -28648,7 +28648,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -28710,7 +28710,7 @@
 		"lon": -5.453909,
 		"source": "El Pais",
 		"location": "algeciras",
-		"cause": "run over by a bus"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -28785,7 +28785,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -28800,7 +28800,7 @@
 		"lon": -3.70379,
 		"source": "AOL/Publico/Terra/ABC/adn/EPress/Kaoenlared/ASSI/Diagonal/DiarioRJ/MadD/20ME",
 		"location": "madrid",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28815,7 +28815,7 @@
 		"lon": 2.213749,
 		"source": "IRR",
 		"location": "france",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -28846,7 +28846,7 @@
 		"lon": 2.352222,
 		"source": "MNS/IRR",
 		"location": "paris",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28861,7 +28861,7 @@
 		"lon": 34.679418,
 		"source": "Amnesty",
 		"location": "El Kuntilla, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -28876,7 +28876,7 @@
 		"lon": -2.219377,
 		"source": "IRR",
 		"location": "nelson, uk",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -28891,7 +28891,7 @@
 		"lon": 34.240191,
 		"source": "Amnesty",
 		"location": "rafah",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -28906,7 +28906,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -28937,7 +28937,7 @@
 		"lon": -4.410332,
 		"source": "Statewatch/VG/SCH/Dag",
 		"location": "Netherland",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -28983,7 +28983,7 @@
 		"lon": -0.974168,
 		"source": "IRR",
 		"location": "lindholme, uk",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -29013,7 +29013,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -29043,7 +29043,7 @@
 		"lon": -1.023194,
 		"source": "BBC/WIK/Independent/Times/IRR",
 		"location": "ghana",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -29073,7 +29073,7 @@
 		"lon": 8.539183,
 		"source": "NR/AugenAufCH",
 		"location": "zurich",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -29104,7 +29104,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -29134,7 +29134,7 @@
 		"lon": 13.404954,
 		"source": "ARI",
 		"location": "berlin",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -29180,7 +29180,7 @@
 		"lon": -0.126966,
 		"source": "IRR/BBC/OBS",
 		"location": "Pentonville, uk",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -29210,7 +29210,7 @@
 		"lon": 2.352222,
 		"source": "IRR/20Mf",
 		"location": "paris",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -29225,7 +29225,7 @@
 		"lon": 7.163161,
 		"source": "ARI",
 		"location": "Birkenfeld, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -29316,7 +29316,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -29529,7 +29529,7 @@
 		"lon": -5.324636,
 		"source": "MNS/NOB",
 		"location": "ceuta",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -29559,7 +29559,7 @@
 		"lon": 24.88649,
 		"source": "NOB/KI",
 		"location": "Xanthi, greece",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -29666,7 +29666,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -29726,7 +29726,7 @@
 		"lon": -5.196533,
 		"source": "NOB/EP",
 		"location": "Marocco to Spain",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -29892,7 +29892,7 @@
 		"lon": 11.253604,
 		"source": "LR/MP",
 		"location": "Brunelleschi",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -29907,7 +29907,7 @@
 		"lon": -16.62913,
 		"source": "NOB/FE/ABC",
 		"location": "canaria",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -30076,7 +30076,7 @@
 		"lon": -3.74922,
 		"source": "AP/MUGAK/SUR",
 		"location": "spain",
-		"cause": "run over by a bus"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -30091,7 +30091,7 @@
 		"lon": -3.435973,
 		"source": "IRR",
 		"location": "Great Britain",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30183,7 +30183,7 @@
 		"lon": 14.30899,
 		"source": "Falter",
 		"location": "Klangenfurt, austria",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -30198,7 +30198,7 @@
 		"lon": 44.39098,
 		"source": "IRR",
 		"location": "kirkuk",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -30213,7 +30213,7 @@
 		"lon": 44.074207,
 		"source": "Haber",
 		"location": "dogubayazit",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -30305,7 +30305,7 @@
 		"lon": 27.216667,
 		"source": "Anatolie",
 		"location": "kirklareli",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -30352,7 +30352,7 @@
 		"lon": 14.375416,
 		"source": "NOB/TEMPO",
 		"location": "malta",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30414,7 +30414,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -30430,7 +30430,7 @@
 		"lon": 14.375416,
 		"source": "Il Tempo",
 		"location": "Malta",
-		"cause": "died of suddent infant death"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30476,7 +30476,7 @@
 		"lon": 2.439497,
 		"source": "Mrap/IRR/BTB/Libération",
 		"location": "vincennes, france",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30554,7 +30554,7 @@
 		"lon": 34.240191,
 		"source": "Reuters",
 		"location": "rafah",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -30569,7 +30569,7 @@
 		"lon": 14.062893,
 		"source": "PICUM/TL",
 		"location": "Caltanisetta",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30629,7 +30629,7 @@
 		"lon": 17.228331,
 		"source": "Tripoli Post",
 		"location": "libyan",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -30675,7 +30675,7 @@
 		"lon": -17.219358,
 		"source": "NOB/EP",
 		"location": "gomera",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -30752,7 +30752,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -30783,7 +30783,7 @@
 		"lon": -16.62913,
 		"source": "Gara",
 		"location": "canary",
-		"cause": "starved or died from dehydration"
+		"cause": "starved"
 	},
 	{
 		"description":
@@ -30831,7 +30831,7 @@
 		"lon": 1.858686,
 		"source": "Libelille",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -30846,7 +30846,7 @@
 		"lon": 11.07675,
 		"source": "ARI",
 		"location": "nuremburg",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -30893,7 +30893,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -30970,7 +30970,7 @@
 		"lon": 1.858686,
 		"source": "Terred errance",
 		"location": "calais",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31188,7 +31188,7 @@
 		"lon": 4.33,
 		"source": "La Capitale",
 		"location": "Molenbeek-Saint-Jean",
-		"cause": "died because of dangerous undeclared work"
+		"cause": "undeclared_work"
 	},
 	{
 		"description":
@@ -31264,7 +31264,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -31279,7 +31279,7 @@
 		"lon": 53.045893,
 		"source": "AFP",
 		"location": "Fars, Iran",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -31340,7 +31340,7 @@
 		"lon": 3.042048,
 		"source": "FE/SoirInfo",
 		"location": "algiers",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31543,7 +31543,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -31621,7 +31621,7 @@
 		"lon": 35.233453,
 		"source": "Irin",
 		"location": "madama",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31698,7 +31698,7 @@
 		"lon": 26.135943,
 		"source": "Kathimerini",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31713,7 +31713,7 @@
 		"lon": 26.135943,
 		"source": "NOB/KI",
 		"location": "evros",
-		"cause": "blown in minefield"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31744,7 +31744,7 @@
 		"lon": 13.007813,
 		"source": "LR/NOB",
 		"location": "Africa to Italy",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -31821,7 +31821,7 @@
 		"lon": 44.074207,
 		"source": "NOB/HaberT",
 		"location": "dogubayazit",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -31836,7 +31836,7 @@
 		"lon": 26.90943,
 		"source": "Turkish Daily News",
 		"location": "Malkara, turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -31852,7 +31852,7 @@
 		"lon": -8.185424,
 		"source": "El Pais",
 		"location": "barrios",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "drowned, after their boat capsized off coast of Malta (Oct 6, 2008)",
@@ -31910,7 +31910,7 @@
 		"lon": 45.433333,
 		"source": "IRR",
 		"location": "Sulaimania, iraq",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -31971,7 +31971,7 @@
 		"lon": 12.315515,
 		"source": "CDS/ST/EpolisR/NOB",
 		"location": "venice",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -31986,7 +31986,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -32078,7 +32078,7 @@
 		"lon": 2.213749,
 		"source": "SP",
 		"location": "France",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -32093,7 +32093,7 @@
 		"lon": 17.228331,
 		"source": "HRW",
 		"location": "libyan",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -32138,7 +32138,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -32187,7 +32187,7 @@
 	},
 	{
 		"description":
-			"injured in police violence, in asylum seekers queue outside Aliens  directorate in Athens (GR) (Oct 25, 2008)",
+			"injured in police, in asylum seekers queue outside Aliens  directorate in Athens (GR) (Oct 25, 2008)",
 		"missing": 0,
 		"dead": 0,
 		"date": "2008-10-25T00:00:00Z",
@@ -32198,7 +32198,7 @@
 		"lon": 23.72931,
 		"source": "ECRE/ST/Vluchteling/IRR/MNS",
 		"location": "athens",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -32275,7 +32275,7 @@
 		"lon": -17.219358,
 		"source": "IntHeraldTribune/NOB/VK/MUGAK",
 		"location": "gomera",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "bodies thrown overboard on the way to La Gomera (E) (Nov 6, 2008)",
@@ -32382,7 +32382,7 @@
 		"lon": -16.62913,
 		"source": "ABC/AFP",
 		"location": "tenerife",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -32427,7 +32427,7 @@
 		"lon": 21.665039,
 		"source": "FE/IntHeraldTribune/NOB",
 		"location": "Greece to Greece",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -32504,7 +32504,7 @@
 		"lon": 27.216667,
 		"source": "NOB/HURRIYET",
 		"location": "kirklareli",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -32581,7 +32581,7 @@
 		"lon": 5.57847,
 		"source": "IRR/MNS/GRAPPE/CRACPE/VRF",
 		"location": "vottem",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -32643,7 +32643,7 @@
 		"source":
 			"AI/Diversity/MUGAK/Connect/EP/Tribuna/ELM/LV/ELC/SUR/VDG/Provincias/PICUM/BBC/FMLN/NOB",
 		"location": "melilla",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -32673,7 +32673,7 @@
 		"lon": 23.433222,
 		"source": "GloDP/IRR",
 		"location": "busmantsi",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -32733,7 +32733,7 @@
 		"lon": 13.235402,
 		"source": "IRR",
 		"location": "Varmland, sweden",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -32808,7 +32808,7 @@
 		"lon": 8.468946,
 		"source": "UNHCR/IRR",
 		"location": "Norway",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -32884,7 +32884,7 @@
 		"lon": 15.554015,
 		"source": "Ansa",
 		"location": "messina, italy",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -32899,7 +32899,7 @@
 		"lon": 12.59292,
 		"source": "LR/CDS",
 		"location": "lampedusa",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -32945,7 +32945,7 @@
 		"lon": 12.59292,
 		"source": "LR/ASCA",
 		"location": "lampedusa",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -33174,7 +33174,7 @@
 		"lon": -5.324636,
 		"source": "Abc",
 		"location": "ceuta",
-		"cause": "bled to death due to barbed wire"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -33250,7 +33250,7 @@
 		"lon": 12.48252,
 		"source": "CARTA/ElW",
 		"location": "roma",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -33326,7 +33326,7 @@
 		"lon": 12.315515,
 		"source": "CDS/ANSA/AdnK/NOB",
 		"location": "venice",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -33374,7 +33374,7 @@
 		"lon": 21.734574,
 		"source": "Ansa",
 		"location": "patras",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -33389,7 +33389,7 @@
 		"lon": 13.518915,
 		"source": "CDS/NOB",
 		"location": "ancona",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -33543,7 +33543,7 @@
 		"lon": -5.353585,
 		"source": "MUGAK/EFE/Diario de Navarra/PICUM/EHAR/NOB",
 		"location": "gibraltar",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -33589,7 +33589,7 @@
 		"lon": 14.062893,
 		"source": "Ansa",
 		"location": "Caltanissetta",
-		"cause": "illness"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -33604,7 +33604,7 @@
 		"lon": 2.352222,
 		"source": "Reu/Ya.F/MSF/MRAP/CSE10/AFP",
 		"location": "paris",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -33619,7 +33619,7 @@
 		"lon": 2.173403,
 		"source": "SetDirecta/FAIV",
 		"location": "barcelona",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33634,7 +33634,7 @@
 		"lon": 2.440483,
 		"source": "VoixDuNord",
 		"location": "Teteghem, france",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -33664,7 +33664,7 @@
 		"lon": 17.141273,
 		"source": "IRR/UPP/NewsD",
 		"location": "gavle, sweden",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33679,7 +33679,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -33694,7 +33694,7 @@
 		"lon": -5.324636,
 		"source": "REU/NOB",
 		"location": "ceuta",
-		"cause": "bled to death due to barbed wire"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -33741,7 +33741,7 @@
 		"lon": 9.67727,
 		"source": "LR/IRR",
 		"location": "bergamo",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33771,7 +33771,7 @@
 		"lon": 23.433222,
 		"source": "IRR",
 		"location": "busmantsi",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -33801,7 +33801,7 @@
 		"lon": -2.934985,
 		"source": "EP",
 		"location": "bilbao",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33861,7 +33861,7 @@
 		"lon": 2.173403,
 		"source": "EP/AVUI/MUGAK",
 		"location": "barcelona",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33876,7 +33876,7 @@
 		"lon": 13.518915,
 		"source": "PICUM/LR/MP/NOB",
 		"location": "ancona",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -33952,7 +33952,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -33967,7 +33967,7 @@
 		"lon": 12.48252,
 		"source": "IlMess/IRR",
 		"location": "roma",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -33998,7 +33998,7 @@
 		"lon": 12.765471,
 		"source": "taz",
 		"location": "mühlau, germany",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -34014,7 +34014,7 @@
 		"lon": -18.024301,
 		"source": "Diario de Navarra",
 		"location": "hierro",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -34062,7 +34062,7 @@
 		"lon": 40.230629,
 		"source": "France Presse",
 		"location": "Diyarbakr",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -34092,7 +34092,7 @@
 		"lon": -16.62913,
 		"source": "Can7/VDG/ElDia/Publico",
 		"location": "tenerife",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -34123,7 +34123,7 @@
 		"lon": 21.824312,
 		"source": "AFP",
 		"location": "greece",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34139,7 +34139,7 @@
 		"lon": 20.265534,
 		"source": "Reuters",
 		"location": "igoumenitsa",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34155,7 +34155,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34203,7 +34203,7 @@
 		"lon": 20.066667,
 		"source": "Fortress Europe",
 		"location": "benghazi",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34344,7 +34344,7 @@
 		"lon": 12.974056,
 		"source": "ARI",
 		"location": "Mittweida, germany",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34359,7 +34359,7 @@
 		"lon": 11.07675,
 		"source": "IRR",
 		"location": "nuremburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34424,7 +34424,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34439,7 +34439,7 @@
 		"lon": 13.518915,
 		"source": "Adnk",
 		"location": "ancona",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -34454,7 +34454,7 @@
 		"lon": 20.066667,
 		"source": "FE/GiovaniE",
 		"location": "benghazi",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34469,7 +34469,7 @@
 		"lon": 20.066667,
 		"source": "FE/GiovaniE",
 		"location": "benghazi",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34499,7 +34499,7 @@
 		"lon": -1.427406,
 		"source": "ShieldsG/IRR",
 		"location": "South Shields, United Kingdom",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34515,7 +34515,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34530,7 +34530,7 @@
 		"lon": -5.8,
 		"source": "AP/FE",
 		"location": "tanger",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -34545,7 +34545,7 @@
 		"lon": 16.373819,
 		"source": "DerStandard/FRO/WIKO/Asyl in Not/RoterP",
 		"location": "wien",
-		"cause": "suicide - hungerstrike"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34561,7 +34561,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34593,7 +34593,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34639,7 +34639,7 @@
 		"lon": 20.066667,
 		"source": "FE/VOA",
 		"location": "banghazi",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34654,7 +34654,7 @@
 		"lon": -0.119824,
 		"source": "IRR",
 		"location": "london",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34669,7 +34669,7 @@
 		"lon": 23.642364,
 		"source": "Anarkismo/IRR",
 		"location": "Nikaia, greece",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34792,7 +34792,7 @@
 		"lon": 0.461426,
 		"source": "IRR",
 		"location": "thames",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -34840,7 +34840,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34917,7 +34917,7 @@
 		"lon": 8.418573,
 		"source": "CDS",
 		"location": "vercelli",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -34933,7 +34933,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -34948,7 +34948,7 @@
 		"lon": -18.024301,
 		"source": "Publico/EP/Diario de Noticia/VDG/Gara/Verdad/Diario de Navarra",
 		"location": "hierro",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -35008,7 +35008,7 @@
 		"lon": -0.45094,
 		"source": "IRR/UxbGaz",
 		"location": "heathrow",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35072,7 +35072,7 @@
 		"lon": 1.858686,
 		"source": "NOB/FE",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -35088,7 +35088,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35103,7 +35103,7 @@
 		"lon": 9.186516,
 		"source": "EveryOne Group/LR/Migreurop",
 		"location": "milan",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35178,7 +35178,7 @@
 		"lon": 9.993682,
 		"source": "SP",
 		"location": "hamburg",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35193,7 +35193,7 @@
 		"lon": 18.643501,
 		"source": "UNHCR/Sverinsge",
 		"location": "Sweden",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35328,7 +35328,7 @@
 		"lon": 69.171703,
 		"source": "MNS/Telegraaf",
 		"location": "kabul, afghanistan",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35358,7 +35358,7 @@
 		"lon": 32.899829,
 		"source": "LR/ECRE",
 		"location": "Sinai, Egypt",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35373,7 +35373,7 @@
 		"lon": 32.899829,
 		"source": "ECRE/LR",
 		"location": "Sinai, Egypt",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35404,7 +35404,7 @@
 		"lon": 9.186516,
 		"source": "LR/IRR",
 		"location": "milan",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35420,7 +35420,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35435,7 +35435,7 @@
 		"lon": 15.137272,
 		"source": "DerStandard/Salzburger Nachrichten",
 		"location": "Mostviertel, austria",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35450,7 +35450,7 @@
 		"lon": -2.991573,
 		"source": "IRR",
 		"location": "liverpool",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35465,7 +35465,7 @@
 		"lon": 9.744931,
 		"source": "762/IRR",
 		"location": "langenhagen",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35497,7 +35497,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35512,7 +35512,7 @@
 		"lon": 9.177592,
 		"source": "Everyone Group",
 		"location": "naviglo, italy",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35527,7 +35527,7 @@
 		"lon": -5.324636,
 		"source": "MNS/MUGAK/SUR",
 		"location": "ceuta",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -35542,7 +35542,7 @@
 		"lon": 4.444643,
 		"source": "MNS/FIDH/IRR",
 		"location": "charleroi, belgium",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35557,7 +35557,7 @@
 		"lon": 8.539183,
 		"source": "AdnK/Swiss.ch/BBC/UNHCR/Augen Auf/DerBund/IPSNA/KZ/NI/IRR/MNS/Aid/SSF",
 		"location": "zurich",
-		"cause": "suicide - hungerstrike"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35589,7 +35589,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35604,7 +35604,7 @@
 		"lon": 23.72931,
 		"source": "IRR/MNS",
 		"location": "athens",
-		"cause": "killed by bomb"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35651,7 +35651,7 @@
 		"lon": 5.57847,
 		"source": "Migreurop/IRR/ST",
 		"location": "vottem",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35698,7 +35698,7 @@
 		"lon": 0.064304,
 		"source": "GuardianUn/IndyMedia/MornStar/IRR",
 		"location": "Oakington, united kingdom",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35713,7 +35713,7 @@
 		"lon": 9.993682,
 		"source": "jW/Karawane/IRR/FR-H",
 		"location": "hamburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35774,7 +35774,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35790,7 +35790,7 @@
 		"lon": 2.375202,
 		"source": "lHumanit",
 		"location": "dunkirk",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -35805,7 +35805,7 @@
 		"lon": 2.173403,
 		"source": "SetDirecta/FAIV/EP/PerCat/IRR",
 		"location": "barcelona",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35836,7 +35836,7 @@
 		"lon": 13.187507,
 		"source": "LR",
 		"location": "tripoli",
-		"cause": "executed"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35866,7 +35866,7 @@
 		"lon": 14.556001,
 		"source": "UNHCR/DS",
 		"location": "alvesta, sweden",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -35881,7 +35881,7 @@
 		"lon": 5.429548,
 		"source": "aduc/Doorbraak/SunaT/IRR",
 		"location": "leersum, netherlands",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35897,7 +35897,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -35928,7 +35928,7 @@
 		"lon": 9.993682,
 		"source": "WSWS/Migreurop/CaucKnot/SP/jW/taz/AN/IRR/MNS",
 		"location": "hamburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35943,7 +35943,7 @@
 		"lon": -4.251806,
 		"source": "GuardianUn/IRR/Migreurop/TheHerlad/MNS/Independent",
 		"location": "glasgow",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35958,7 +35958,7 @@
 		"lon": -4.251806,
 		"source": "GuardianUn/IRR/TheHerlad/MNS/Migreurop/Independent",
 		"location": "glasgow",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -35973,7 +35973,7 @@
 		"lon": 5.117778,
 		"source": "RTV Utrecht",
 		"location": "Utrecht",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -35988,7 +35988,7 @@
 		"lon": 11.401944,
 		"source": "CPH/IRR/MNS",
 		"location": "sandholm, denmark",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -36094,7 +36094,7 @@
 		"lon": -1.158109,
 		"source": "Guardian Un./BBC/IRR/ThisIsNott/TheHuff/NoBordersNott/MNS",
 		"location": "nottingham",
-		"cause": "suicide - jumped from building"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -36125,7 +36125,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36204,7 +36204,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36236,7 +36236,7 @@
 		"lon": 34.035645,
 		"source": "Reuters",
 		"location": "sinai",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36345,7 +36345,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36377,7 +36377,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36392,7 +36392,7 @@
 		"lon": -5.324636,
 		"source": "ElDia/LV/MUGAK/Diario de Navarra/Diario de Noticias",
 		"location": "ceuta",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -36407,7 +36407,7 @@
 		"lon": 33.366667,
 		"source": "KISA/CypMail",
 		"location": "nicosia",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -36453,7 +36453,7 @@
 		"lon": -3.435973,
 		"source": "GuardianUn.",
 		"location": "Great Britain",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -36468,7 +36468,7 @@
 		"lon": 12.315515,
 		"source": "LaNVenezia",
 		"location": "venice",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -36499,7 +36499,7 @@
 		"lon": 32.899829,
 		"source": "Map",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36531,7 +36531,7 @@
 		"lon": 3.042048,
 		"source": "Info Soir",
 		"location": "algiers",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -36562,7 +36562,7 @@
 		"lon": 2.375202,
 		"source": "PICUM/IRR",
 		"location": "dunkirk",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -36671,7 +36671,7 @@
 		"lon": 32.899829,
 		"source": "Almasr alyoum",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36733,7 +36733,7 @@
 		"lon": 21.734574,
 		"source": "Migreurop/Kinisi/FE",
 		"location": "patras",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -36748,7 +36748,7 @@
 		"lon": 2.253331,
 		"source": "Europe1/MNS/Parisen",
 		"location": "colombes",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36764,7 +36764,7 @@
 		"lon": 32.899829,
 		"source": "Repubblica",
 		"location": "Sinai, Egypt",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -36828,7 +36828,7 @@
 		"lon": 32.899829,
 		"source": "Repubblica",
 		"location": "Sinai, Egypt",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -36843,7 +36843,7 @@
 		"lon": 10.531554,
 		"source": "MNS/LR/Africa-News",
 		"location": "Masotti, brescia",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -36859,7 +36859,7 @@
 		"lon": 21.506965,
 		"source": "Frontexplode/MNS",
 		"location": "vissa",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -36874,7 +36874,7 @@
 		"lon": 21.506965,
 		"source": "Frontexplode/MNS",
 		"location": "vissa",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -36889,7 +36889,7 @@
 		"lon": -5.324636,
 		"source": "MUGAK/ELM",
 		"location": "ceuta",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -36905,7 +36905,7 @@
 		"lon": 32.899829,
 		"source": "AFP",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -36965,7 +36965,7 @@
 		"lon": 10.549576,
 		"source": "Karawane/taz/jW/waz",
 		"location": "gifhorn",
-		"cause": "suicide - under train"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -37026,7 +37026,7 @@
 		"lon": -5.324636,
 		"source": "MNS",
 		"location": "ceuta",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -37057,7 +37057,7 @@
 		"lon": 10.067171,
 		"source": "VRF",
 		"location": "gerstungen",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -37072,7 +37072,7 @@
 		"lon": 18.643501,
 		"source": "UNHCR/Sveriges",
 		"location": "sweden",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -37103,7 +37103,7 @@
 		"lon": 26.135943,
 		"source": "MNS/PICUM",
 		"location": "evros",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -37290,7 +37290,7 @@
 		"lon": -0.526243,
 		"source": "GuardianUn",
 		"location": "colnbrook",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -37305,7 +37305,7 @@
 		"lon": -0.119725,
 		"source": "MNS",
 		"location": "campsfield",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -37446,7 +37446,7 @@
 		"lon": 9.121661,
 		"source": "ElW",
 		"location": "cagliari",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -37570,7 +37570,7 @@
 		"lon": 7.747882,
 		"source": "Seneweb/Nouvel Obs",
 		"location": "strasbourg",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -37693,7 +37693,7 @@
 		"lon": -1.675708,
 		"source": "Rue89",
 		"location": "rennes",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -37851,7 +37851,7 @@
 		"lon": 14.51,
 		"source": "ToM",
 		"location": "Hal Far, Malta",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -37867,7 +37867,7 @@
 		"lon": 16.871871,
 		"source": "Agi",
 		"location": "bari",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -38043,7 +38043,7 @@
 		"lon": 9.680845,
 		"source": "HessenR/HNA/Welt/SP",
 		"location": "fulda",
-		"cause": "heat exhaustion"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -38155,7 +38155,7 @@
 		"lon": 10.16596,
 		"source": "Afp",
 		"location": "tunis",
-		"cause": "burned or asphyxiated due to arson attack"
+		"cause": "burned"
 	},
 	{
 		"description":
@@ -38311,7 +38311,7 @@
 		"lon": -7.09262,
 		"source": "FE",
 		"location": "morocco",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -38389,7 +38389,7 @@
 		"lon": 32.899829,
 		"source": "AFP",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -38405,7 +38405,7 @@
 		"lon": 12.59292,
 		"source": "PICUM/FE/AdnK",
 		"location": "lampedusa",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -38450,7 +38450,7 @@
 		"lon": -5.324636,
 		"source": "FE/VDG",
 		"location": "ceuta",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -38466,7 +38466,7 @@
 		"lon": 20.902977,
 		"source": "WSWS/LV/MNS/Karawane",
 		"location": "kosovo",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -38482,7 +38482,7 @@
 		"lon": 32.899829,
 		"source": "Al Masry Al Youm",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -38497,7 +38497,7 @@
 		"lon": 26.172202,
 		"source": "MNS",
 		"location": "feres",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -38528,7 +38528,7 @@
 		"lon": -3.74922,
 		"source": "MNS",
 		"location": "spain",
-		"cause": "run over"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -38559,7 +38559,7 @@
 		"lon": 26.135943,
 		"source": "ClandestinE/Frontexplode",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -38574,7 +38574,7 @@
 		"lon": 4.895168,
 		"source": "NBK/VK/Eindhovens Dagblad/IMA/MNS",
 		"location": "amsterdam",
-		"cause": "suicide - put on fire"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -38606,7 +38606,7 @@
 		"lon": 32.899829,
 		"source": "Afp",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -38638,7 +38638,7 @@
 		"lon": 32.899829,
 		"source": "Al Masry Al Yawm",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -38669,7 +38669,7 @@
 		"lon": 26.135943,
 		"source": "ClandestinE/Son Dakika/MNS",
 		"location": "evros",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -38920,7 +38920,7 @@
 		"lon": 1.858686,
 		"source": "LePhare",
 		"location": "calais",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -39094,7 +39094,7 @@
 		"lon": 2.352222,
 		"source": "DRARI/INDf",
 		"location": "paris",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -39109,7 +39109,7 @@
 		"lon": 21.824312,
 		"source": "MNS",
 		"location": "Greece",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -39139,7 +39139,7 @@
 		"lon": 25.873962,
 		"source": "MNS",
 		"location": "alexandroupoli",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39154,7 +39154,7 @@
 		"lon": 26.135943,
 		"source": "MNS",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39281,7 +39281,7 @@
 		"lon": -3.76085,
 		"source": "IRR/ICARE/MUGAK",
 		"location": "aluche",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -39312,7 +39312,7 @@
 		"lon": -4.410332,
 		"source": "Vrijheid",
 		"location": "Netherland",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -39343,7 +39343,7 @@
 		"lon": 26.135943,
 		"source": "MNS/PICUM",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39389,7 +39389,7 @@
 		"lon": 26.135943,
 		"source": "CMau/KI",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39404,7 +39404,7 @@
 		"lon": 7.011555,
 		"source": "VRF",
 		"location": "essen",
-		"cause": "illness"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -39419,7 +39419,7 @@
 		"lon": 4.469936,
 		"source": "MNS",
 		"location": "belgium",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -39589,7 +39589,7 @@
 		"lon": 32.899829,
 		"source": "Reuters",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -39636,7 +39636,7 @@
 		"lon": 9.234647,
 		"source": "AFP",
 		"location": "italian coast",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -39651,7 +39651,7 @@
 		"lon": 9.953571,
 		"source": "FR-BW/INDd/ARD/",
 		"location": "wurzburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -39666,7 +39666,7 @@
 		"lon": 9.953571,
 		"source": "HRS/SD/MainP/U4IB/SOS/Karawane",
 		"location": "wurzburg",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -39682,7 +39682,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/Clandestina/Skai/ToV",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39776,7 +39776,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/Infomob/Skai/Clandestina",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "body found by border guards in the Evros River (GR) (Feb 20, 2012)",
@@ -39805,7 +39805,7 @@
 		"lon": 22.524509,
 		"source": "PICUM/Proto",
 		"location": "korinthia",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -39911,7 +39911,7 @@
 		"lon": 17.228331,
 		"source": "Migreurop/AFP",
 		"location": "libya",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -39974,7 +39974,7 @@
 		"lon": 26.288073,
 		"source": "Migreurop/KTG/TF1/PICUM/Clandestina/Age/Skai/Ta Nea/ERT",
 		"location": "lykofos",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -39989,7 +39989,7 @@
 		"lon": 2.173403,
 		"source": "IRR/MUGAK/LV/18Des/EP/EPress",
 		"location": "barcelona",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -40190,7 +40190,7 @@
 		"lon": -7.09262,
 		"source": "FE",
 		"location": "morocco",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description":
@@ -40235,7 +40235,7 @@
 		"lon": 14.375416,
 		"source": "TimesM/MaltaToday/FR-H",
 		"location": "malta",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -40264,7 +40264,7 @@
 		"lon": 35.8334,
 		"source": "ToM",
 		"location": "",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -40279,7 +40279,7 @@
 		"lon": -9.236617,
 		"source": "EUobserver/MaltaToday/MaltaStar/TimesM",
 		"location": "safi",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -40294,7 +40294,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/Skai",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -40325,7 +40325,7 @@
 		"lon": -1.2996,
 		"source": "IRR/Star",
 		"location": "Rotherham park, UK",
-		"cause": "suicide - hanged"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -40475,7 +40475,7 @@
 		"lon": -0.45094,
 		"source": "Guardian Un./IRR",
 		"location": "heathrow",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -40522,7 +40522,7 @@
 		"lon": 9.572866,
 		"source": "RTA/INDd/VRF/Karawane",
 		"location": "kirchheim",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -40537,7 +40537,7 @@
 		"lon": 0.461426,
 		"source": "IRR/ZimEye",
 		"location": "thames",
-		"cause": "suicide - jumped in water"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -40553,7 +40553,7 @@
 		"lon": 32.899829,
 		"source": "Gulf News",
 		"location": "Sinai, Egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -40614,7 +40614,7 @@
 		"lon": 25.873962,
 		"source": "PICUM",
 		"location": "alexandroupolis",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -40677,7 +40677,7 @@
 		"lon": 26.135943,
 		"source": "PICUM/Rizo",
 		"location": "evros",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -40773,7 +40773,7 @@
 		"lon": -0.483529,
 		"source": "IRR",
 		"location": "Harmondsworth IRC",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -40928,7 +40928,7 @@
 		"lon": 26,
 		"source": "Al Jazeera",
 		"location": "A field in Northern Greece",
-		"cause": "frozen"
+		"cause": "hypothermia"
 	},
 	{
 		"description":
@@ -40943,7 +40943,7 @@
 		"lon": 21.734574,
 		"source": "PICUM/patrasT",
 		"location": "patras",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -40958,7 +40958,7 @@
 		"lon": 5.291266,
 		"source": "DutchN/Migreurop/RNW/PICUM/ENAR",
 		"location": "netherlands",
-		"cause": "suicide - other"
+		"cause": "suicide"
 	},
 	{
 		"description":
@@ -41037,7 +41037,7 @@
 		"lon": 44.6,
 		"source": "The Local",
 		"location": "Chechnya",
-		"cause": "tortured"
+		"cause": "violence"
 	},
 	{
 		"description": "Suicide after being arrested for lack of identification papers",
@@ -41126,7 +41126,7 @@
 		"lon": -0.483529,
 		"source": "Guardian",
 		"location": "IDC Harmondsworth",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41186,7 +41186,7 @@
 		"lon": -2,
 		"source": "Guardian",
 		"location": "Train to Manchester",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41294,7 +41294,7 @@
 		"lon": 25,
 		"source": "Sudan Tribune",
 		"location": "Border between Libya and Sudan",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -41310,7 +41310,7 @@
 		"lon": 44.3347,
 		"source": "The Local",
 		"location": "Kali",
-		"cause": "tortured"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -41326,7 +41326,7 @@
 		"lon": 16.346379,
 		"source": "Repubblica",
 		"location": "calabria",
-		"cause": "died in childbirth"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41357,7 +41357,7 @@
 		"lon": -2.938097,
 		"source": "Abc",
 		"location": "melilla",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41417,7 +41417,7 @@
 		"lon": -2.279768,
 		"source": "Manchester Evening News",
 		"location": "Manchester airport",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41462,7 +41462,7 @@
 		"lon": 23.72931,
 		"source": "KEERFA",
 		"location": "Amygdaleza detention center",
-		"cause": "died (presumably) from ill treatments"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41524,7 +41524,7 @@
 		"lon": 17.12711,
 		"source": "Repubblica",
 		"location": "crotone",
-		"cause": "illness"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -41649,7 +41649,7 @@
 		"lon": 30.802498,
 		"source": "Repubblica",
 		"location": "egypt",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -41664,7 +41664,7 @@
 		"lon": 0.12473,
 		"source": "Ouest-France",
 		"location": "Grande Garenne, Angouleme",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -41804,7 +41804,7 @@
 		"lon": 4.446211,
 		"source": "Belga",
 		"location": "Parce de la Reine Astrid, Charleroi",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -41835,7 +41835,7 @@
 		"lon": 1.858686,
 		"source": "Libération",
 		"location": "Calais, France",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -41851,7 +41851,7 @@
 		"lon": -5.324636,
 		"source": "Amnesty International",
 		"location": "Ceuta",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -41867,7 +41867,7 @@
 		"lon": 2.352,
 		"source": "Rue89",
 		"location": "Paris, France",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -41941,7 +41941,7 @@
 		"lon": -0.503644,
 		"source": "BBC",
 		"location": "Yarl's Wood Immigration Removal Centre",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description":
@@ -42062,7 +42062,7 @@
 		"lon": 8.56,
 		"source": "IOL news",
 		"location": "Border to Algeria from Niger.",
-		"cause": "exhaustion or thirst"
+		"cause": "exhaustion"
 	},
 	{
 		"description":
@@ -42153,7 +42153,7 @@
 		"lon": 1.704929,
 		"source": "AFP",
 		"location": "Marquise, France",
-		"cause": "run over"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -42169,7 +42169,7 @@
 		"lon": 1.858686,
 		"source": "Daily Mail",
 		"location": "Calais, France",
-		"cause": "run over by a bus"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "",
@@ -42216,7 +42216,7 @@
 		"lon": 1.858686,
 		"source": "Daily Mail",
 		"location": "Calais, France",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -42321,7 +42321,7 @@
 		"lon": 43.38,
 		"source": "Hürriyet",
 		"location": "Van, Turkey",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -42356,7 +42356,7 @@
 	},
 	{
 		"description":
-			"The 45 corpses were discovered in the bow area of the boat during the rescue operation, according to a navy statement. The victims were believed to have suffocated or drowned during the crossing. Initial news reports said the migrants had suffocated because they were packed in so tightly. It wasn‚Äôt clear if the boat was taking in water when it was rescued.",
+			"The 45 corpses were discovered in the bow area of the boat during the rescue operation, according to a navy statement. The victims were believed to have drowned during the crossing. Initial news reports said the migrants had suffocated because they were packed in so tightly. It wasn‚Äôt clear if the boat was taking in water when it was rescued.",
 		"missing": 0,
 		"dead": 45,
 		"date": "2014-06-28T05:00:00Z",
@@ -42367,7 +42367,7 @@
 		"lon": 15.3,
 		"source": "AP",
 		"location": "Off the coast of Sicily",
-		"cause": "suffocated or drowned"
+		"cause": "drowned"
 	},
 	{
 		"description":
@@ -42547,7 +42547,7 @@
 		"lon": 13.1,
 		"source": "ToM, Malta Independent",
 		"location": "",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -42563,7 +42563,7 @@
 		"lon": 1,
 		"source": "Secours catholique",
 		"location": "",
-		"cause": "run over by a bus"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -42919,7 +42919,7 @@
 		"lon": 30,
 		"source": "",
 		"location": "Off the Egyptian coast",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "a dinghy carrying 8 migrants sank",
@@ -42993,7 +42993,7 @@
 		"lon": 1.86,
 		"source": "Telegraph",
 		"location": "Calais, France",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43038,7 +43038,7 @@
 		"lon": 23.7379745,
 		"source": "AFP",
 		"location": "Amygdaleza detention center",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "Two Britain-bound migrants burn to death in the back of lorry in Dunkirk.",
@@ -43082,7 +43082,7 @@
 		"lon": 12.6,
 		"source": "Reuters",
 		"location": "Off Lampedusa",
-		"cause": "hypothermia and dehydration"
+		"cause": "hypothermia"
 	},
 	{
 		"description": "A vessel got into trouble south of Almeria. 30 were rescued.",
@@ -43111,7 +43111,7 @@
 		"lon": -0.15,
 		"source": "ITV",
 		"location": "Junction 24 of M25",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43186,7 +43186,7 @@
 		"lon": 13.3,
 		"source": "Anadolu Agency",
 		"location": "Between Tarhuna and Tripoli",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43201,7 +43201,7 @@
 		"lon": 14,
 		"source": "Times of Malta",
 		"location": "Off Malta",
-		"cause": "drowned or thirst"
+		"cause": "drowned"
 	},
 	{
 		"description":
@@ -43259,7 +43259,7 @@
 		"lon": 23.7367192,
 		"source": "Socialist Worker",
 		"location": "",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "untreated diabetes",
@@ -43511,7 +43511,7 @@
 		"lon": 20.265534,
 		"source": "thelocal.it",
 		"location": "Igoumenítsa, Nome de Thesprotie, Greece",
-		"cause": "run over by a bus"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43527,7 +43527,7 @@
 		"lon": 21.770409,
 		"source": "Reuters",
 		"location": "Veles, macedonia",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43669,7 +43669,7 @@
 		"lon": 1.8000638,
 		"source": "La Voix du Nord",
 		"location": "Coquelles, France",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "A pickup truck got lost in the desert outside of Arlit, Niger",
@@ -43684,7 +43684,7 @@
 		"lon": 6.800537,
 		"source": "Reuters",
 		"location": "Off Arlit, Niger",
-		"cause": "died from dehydration"
+		"cause": "dehydration"
 	},
 	{
 		"description": "A rubber boat capsized during a rescue operation. 3 men died.",
@@ -43729,7 +43729,7 @@
 		"lon": 14,
 		"source": "Le Parisien",
 		"location": "Between Libya and Sicily",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -43761,7 +43761,7 @@
 		"lon": 1.95,
 		"source": "DailyMail",
 		"location": "Between Calais and Marck",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "A migrant died while being evacuated from a squat",
@@ -43776,7 +43776,7 @@
 		"lon": -5.8,
 		"source": "AFP",
 		"location": "Tanger",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description": "One migrant fall from a train and broke his neck.",
@@ -43866,7 +43866,7 @@
 		"lon": 20.0312352,
 		"source": "Index.hu",
 		"location": "Röszke",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "One migrant burned while trying to get into the Eurostar tunnel",
@@ -43897,7 +43897,7 @@
 		"lon": 26.64,
 		"source": "The Independant",
 		"location": "Between Egypt and Sicily",
-		"cause": "lack of medical care"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "One migrant drowned while trying to get into the Eurostar Tunnel",
@@ -43973,7 +43973,7 @@
 		"lon": 1.862801,
 		"source": "20 Minutes",
 		"location": "Calais",
-		"cause": "run over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -43989,7 +43989,7 @@
 		"lon": 2.2946,
 		"source": "France Info",
 		"location": "Paris",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description": "4 men have been found dead at sea, trying to get to Ceuta",
@@ -44193,7 +44193,7 @@
 		"lon": 14,
 		"source": "MSF",
 		"location": "Between Libya and Sicily",
-		"cause": "heart failure"
+		"cause": "lack_of_medical_care"
 	},
 	{
 		"description": "52 found dead' in hold of migrant boat off Libya",
@@ -44255,7 +44255,7 @@
 		"lon": 27.89,
 		"source": "Greek goverment",
 		"location": "near Symi (Greece)",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -44332,7 +44332,7 @@
 		"lon": 26.53,
 		"source": "Police",
 		"location": "Orestiada",
-		"cause": "run over by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -44394,7 +44394,7 @@
 		"lon": 20.1404686,
 		"source": "Hungarian Police",
 		"location": "Szeged",
-		"cause": "run over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -44470,7 +44470,7 @@
 		"lon": 1.82,
 		"source": "French Authorities",
 		"location": "Coquelles, France",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description": "The body of a young Syrian girl was found on a Turkish beach",
@@ -44593,7 +44593,7 @@
 		"lon": 1.8628,
 		"source": "Reuters",
 		"location": "Calais",
-		"cause": "hit by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -44655,7 +44655,7 @@
 		"lon": 1.86,
 		"source": "French Authorities",
 		"location": "Calais",
-		"cause": "crushed by a wooden pallet in a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -44733,7 +44733,7 @@
 		"lon": 21.7,
 		"source": "Serbian media",
 		"location": "Presevo",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "One refugee died in a fire in a reception fire",
@@ -44779,7 +44779,7 @@
 		"lon": -5.3,
 		"source": "Spanish radio station Cadena SER",
 		"location": "Ceuta",
-		"cause": "police violence"
+		"cause": "police"
 	},
 	{
 		"description": "Eleven drown as boat capsizes off Egypt",
@@ -44826,7 +44826,7 @@
 		"lon": 1.86,
 		"source": "Codis",
 		"location": "Near Calais",
-		"cause": "hit by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "Rubber boat with Lebanon family of 12 sinks in Aegean Sea",
@@ -44887,7 +44887,7 @@
 		"lon": 27.1638,
 		"source": "AP",
 		"location": "Sredets",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description": "An unidentified body has been found near the rail path ",
@@ -44902,7 +44902,7 @@
 		"lon": 1.7875,
 		"source": "AFP",
 		"location": "Coquelles",
-		"cause": "hit by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -45105,7 +45105,7 @@
 		"lon": 1.861,
 		"source": "La Voix du Nord",
 		"location": "Calais",
-		"cause": "hit by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "One woman and two children drowned off the islet of Agathonissi",
@@ -45275,7 +45275,7 @@
 		"lon": 19.1235,
 		"source": "AP",
 		"location": "Opatovac",
-		"cause": "natural causes"
+		"cause": "natural_causes"
 	},
 	{
 		"description":
@@ -45447,7 +45447,7 @@
 		"lon": 25.85,
 		"source": "AP",
 		"location": "Alexandroupolis",
-		"cause": "hit by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -45478,7 +45478,7 @@
 		"lon": 34.19,
 		"source": "LA Times",
 		"location": "Rafah",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -45508,7 +45508,7 @@
 		"lon": -1.668,
 		"source": "AFP",
 		"location": "Cherbourg",
-		"cause": "hit by a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -45572,7 +45572,7 @@
 		"lon": 8.1646,
 		"source": "Swedish police",
 		"location": "Sunndal",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description": "A man between 25 and 30 was hit by a car near Grande-Synthe",
@@ -45587,7 +45587,7 @@
 		"lon": 2.2589,
 		"source": "French Authorities",
 		"location": "Grande-Synthe",
-		"cause": "hit by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -45619,7 +45619,7 @@
 		"lon": 34,
 		"source": "AFP",
 		"location": "Sinai",
-		"cause": "shot by the police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -45699,7 +45699,7 @@
 		"lon": 0.7,
 		"source": "AFP",
 		"location": "Near Kidal",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -45746,7 +45746,7 @@
 		"lon": 1.78,
 		"source": "Codis",
 		"location": "Coquelles",
-		"cause": "hit by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -45778,7 +45778,7 @@
 		"lon": 22.4402,
 		"source": "Reuters",
 		"location": "Idomeni",
-		"cause": "electrocuted"
+		"cause": "violence"
 	},
 	{
 		"description": "11 African migrants drown trying to reach Canary Islands by boat",
@@ -45840,7 +45840,7 @@
 		"lon": 1.861,
 		"source": "AFP",
 		"location": "Calais",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -45918,7 +45918,7 @@
 		"lon": 8.1968,
 		"source": "AFP",
 		"location": "Hassloch",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -46140,7 +46140,7 @@
 		"lon": -2.65693,
 		"source": "Euronews",
 		"location": "Roquetas de Mar",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description": "A Iranian man died. His head was crushed by a bridge pillar",
@@ -46155,7 +46155,7 @@
 		"lon": 2.2589,
 		"source": "La Voix du Nord",
 		"location": "Grande-Synthe",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -46321,7 +46321,7 @@
 		"lon": 26.5,
 		"source": "Hurrieyet Daily",
 		"location": "West Turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -46337,7 +46337,7 @@
 		"lon": 30,
 		"source": "AFP",
 		"location": "Northwest Turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -46353,7 +46353,7 @@
 		"lon": 26.8,
 		"source": "Hurrieyet Daily",
 		"location": "West Turkey",
-		"cause": "car accident"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -46660,7 +46660,7 @@
 		"lon": 13.57,
 		"source": "Corriere Adriatico",
 		"location": "Ancona",
-		"cause": "ran over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "A body of a man was found off the coast of Samos (north)",
@@ -46747,7 +46747,7 @@
 		"lon": 22.4,
 		"source": "AFP",
 		"location": "Greek-Macedonian border",
-		"cause": "stabbed"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -47009,7 +47009,7 @@
 		"lon": 17.12,
 		"source": "AFP",
 		"location": "Ljusne",
-		"cause": "murdered"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -47025,7 +47025,7 @@
 		"lon": 37,
 		"source": "Reuters",
 		"location": "Kilis",
-		"cause": "wounded"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -47101,7 +47101,7 @@
 		"lon": 36.4,
 		"source": "SOHR, DW",
 		"location": "Idlib, Lattakia, Turkish border",
-		"cause": "shot by border police"
+		"cause": "police"
 	},
 	{
 		"description":
@@ -47175,7 +47175,7 @@
 		"lon": 11.6,
 		"source": "Reuters",
 		"location": "Near Munich",
-		"cause": "fell off a train"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -47443,7 +47443,7 @@
 		"lon": 37.15,
 		"source": "Syrian Observatory for Human Rights",
 		"location": "Turkish-Syrian border",
-		"cause": "shot"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -47459,7 +47459,7 @@
 		"lon": 5.3,
 		"source": "Le Monde",
 		"location": "Calais",
-		"cause": "ran over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "a woman, about 30, was found dead on the island of Samos",
@@ -47489,7 +47489,7 @@
 		"lon": -1.246,
 		"source": "Guardian",
 		"location": "Oxfordshire",
-		"cause": "ran over by a truck"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description":
@@ -47596,7 +47596,7 @@
 		"lon": 8.5735,
 		"source": "Frankfurter Allgemeine Zeitung",
 		"location": "Frankfurt Airport",
-		"cause": "ran over by a car"
+		"cause": "vehicle_accident"
 	},
 	{
 		"description": "a body of a man was found close to the coast of Samos ",
@@ -47642,7 +47642,7 @@
 		"lon": 36.83,
 		"source": "CNN Türk",
 		"location": "Kilis",
-		"cause": "bombed"
+		"cause": "violence"
 	},
 	{
 		"description":
@@ -47674,6 +47674,6 @@
 		"lon": 37.04,
 		"source": "The Times",
 		"location": "Turkish-Syrian border",
-		"cause": "shot"
+		"cause": "violence"
 	}
 ]

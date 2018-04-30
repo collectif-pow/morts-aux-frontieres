@@ -16,15 +16,13 @@ udpPort.on('ready', () => {
 	ready = true;
 });
 udpPort.on('message', msg => {
-	if (msg.address === '/speed') {
-		timePerDay = msg.args[0];
-	} else if (msg.address === '/play') {
-		repeat();
-	} else if (msg.address === '/pause') {
-		clearTimeout(timeout);
-	} else if (msg.address === '/stop') {
+	if (msg.address === '/next') {
+		next();
+	} else if (msg.address === '/reset') {
 		dayOffset = 0;
-		clearTimeout(timeout);
+		dead = 0;
+		missing = 0;
+		deadormissing = 0;
 	}
 });
 // Totals:
@@ -127,7 +125,7 @@ console.log(duration);
 
 let dayOffset = 0;
 
-const repeat = () => {
+const next = () => {
 	const dateToFind = startDate.clone().add(dayOffset, 'days');
 	const current = data.filter(d => {
 		const mDate = moment(d.date).tz('Europe/Paris');
@@ -136,6 +134,10 @@ const repeat = () => {
 	console.log(dateToFind.format('dddd D MMMM YYYY'));
 	sendOSC(current);
 	dayOffset++;
-	if (dayOffset > duration) dayOffset = 0;
-	else timeout = setTimeout(repeat, timePerDay);
+	if (dayOffset > duration) {
+		dayOffset = 0;
+		dead = 0;
+		missing = 0;
+		deadormissing = 0;
+	}
 };
