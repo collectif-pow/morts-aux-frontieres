@@ -131,13 +131,63 @@ const next = () => {
 		const mDate = moment(d.date).tz('Europe/Paris');
 		return mDate.isSame(dateToFind, 'day');
 	});
-	console.log(dateToFind.format('dddd D MMMM YYYY'));
+	const currentDate = dateToFind.format('dddd D MMMM YYYY');
+	console.log(currentDate);
 	sendOSC(current);
+	enqueue(current, currentDate);
+	print();
 	dayOffset++;
 	if (dayOffset > duration) {
 		dayOffset = 0;
 		dead = 0;
 		missing = 0;
 		deadormissing = 0;
+	}
+};
+
+// printer
+const SerialPort = require('serialport');
+const serialPort = new SerialPort('/dev/cu.usbserial', { baudrate: 19200 });
+const Printer = require('thermalprinter');
+
+let printer;
+
+serialPort.on('open', () => {
+	printer = new Printer(serialPort);
+	printer.on('ready', () => {
+		printer.upsideDown(true);
+		console.log('ready');
+	});
+});
+
+const queue = [];
+
+const enqueue = (data, date) => {
+	data.forEach(d => {
+		const current = [
+			`cause: ${d.cause.replace(/_/gi, ' ')}`,
+			`morts: ${d.deadormissing}`,
+			date,
+		];
+		queue.push(current);
+	});
+};
+
+let canPrint = true;
+const print = () => {
+	if (canPrint) {
+		const current = queue.shift();
+		if (current) {
+			canPrint = false;
+			current.forEach(c => {
+				printer.printLine(c);
+			});
+			printer.horizontalLine(16);
+			printer.lineFeed(1);
+			printer.print(() => {
+				canPrint = true;
+				if (queue.length > 0) print();
+			});
+		}
 	}
 };

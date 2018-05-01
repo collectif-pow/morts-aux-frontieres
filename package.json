@@ -19,6 +19,7 @@
 	"dependencies": {
 		"moment": "^2.19.3",
 		"moment-timezone": "^0.5.14",
-		"osc": "^2.2.0"
+		"osc": "^2.2.0",
+		"thermalprinter": "^0.3.8"
 	}
 }
