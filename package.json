@@ -19,11 +19,7 @@
 	"dependencies": {
 		"moment": "^2.19.3",
 		"moment-timezone": "^0.5.14",
-<<<<<<< HEAD
-		"osc": "^2.2.0",
+		"osc": "https://github.com/colinbdclark/osc.js.git#master",
 		"thermalprinter": "^0.3.8"
-=======
-		"osc": "https://github.com/colinbdclark/osc.js.git#master"
->>>>>>> 8648024585ab13b3c85819841806a0955fd303e2
 	}
 }
