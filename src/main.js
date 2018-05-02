@@ -147,7 +147,7 @@ const next = () => {
 
 // printer
 const SerialPort = require('serialport');
-const serialPort = new SerialPort('/dev/cu.usbserial', { baudrate: 19200 });
+const serialPort = new SerialPort('COM3', { baudRate: 19200 });
 const Printer = require('thermalprinter');
 
 let printer;
@@ -163,14 +163,18 @@ serialPort.on('open', () => {
 const queue = [];
 
 const enqueue = (data, date) => {
-	data.forEach(d => {
-		const current = [
-			`cause: ${d.cause.replace(/_/gi, ' ')}`,
-			`morts: ${d.deadormissing}`,
-			date,
-		];
+	if (data.length > 0) {
+		const current = [date];
+		let count = 0;
+		let causes = [];
+		data.forEach(d => {
+			count += d.deadormissing;
+			causes.push(d.cause.replace(/_/gi, ' '));
+		});
+		current.push(`mort${count > 1 ? 's' : ''} : ${count}`);
+		current.push(`cause${count > 1 ? 's' : ''} : ${causes.join(', ')}`);
 		queue.push(current);
-	});
+	}
 };
 
 let canPrint = true;
