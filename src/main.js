@@ -164,15 +164,19 @@ const queue = [];
 
 const enqueue = (data, date) => {
 	if (data.length > 0) {
-		const current = [date];
+		const current = [];
 		let count = 0;
 		let causes = [];
 		data.forEach(d => {
 			count += d.deadormissing;
 			causes.push(d.cause.replace(/_/gi, ' '));
 		});
+		[...new Set(causes)].forEach(c => {
+			current.push(c);
+		});
+		current.push(`cause${count > 1 ? 's' : ''} :`);
 		current.push(`mort${count > 1 ? 's' : ''} : ${count}`);
-		current.push(`cause${count > 1 ? 's' : ''} : ${causes.join(', ')}`);
+		current.push(date);
 		queue.push(current);
 	}
 };
